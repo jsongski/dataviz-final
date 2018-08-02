@@ -1,0 +1,1531 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate	% of Total Deaths
+	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Unintentional"	"1"	7932	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Suicide"	"2"	2498	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Homicide"	"3"	1482	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Undetermined "	"4"	329	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Jan., 1999"	"1999/01"	"Non-Injury, no intent classified"	"9"	215325	Not Applicable	Not Applicable	0.48%
+"Total"	"1999"	"1999"	"Jan., 1999"	"1999/01"			227604	Not Applicable	Not Applicable	0.51%
+	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Unintentional"	"1"	7001	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Suicide"	"2"	2296	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Homicide"	"3"	1199	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Undetermined "	"4"	309	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Legal Intervention / Operations of War"	"5"	44	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Feb., 1999"	"1999/02"	"Non-Injury, no intent classified"	"9"	197325	Not Applicable	Not Applicable	0.44%
+"Total"	"1999"	"1999"	"Feb., 1999"	"1999/02"			208174	Not Applicable	Not Applicable	0.46%
+	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Unintentional"	"1"	7801	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Suicide"	"2"	2465	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Homicide"	"3"	1299	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Undetermined "	"4"	305	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Legal Intervention / Operations of War"	"5"	39	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Mar., 1999"	"1999/03"	"Non-Injury, no intent classified"	"9"	214856	Not Applicable	Not Applicable	0.48%
+"Total"	"1999"	"1999"	"Mar., 1999"	"1999/03"			226765	Not Applicable	Not Applicable	0.50%
+	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Unintentional"	"1"	7567	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Suicide"	"2"	2475	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Homicide"	"3"	1304	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Undetermined "	"4"	363	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Apr., 1999"	"1999/04"	"Non-Injury, no intent classified"	"9"	184801	Not Applicable	Not Applicable	0.41%
+"Total"	"1999"	"1999"	"Apr., 1999"	"1999/04"			196544	Not Applicable	Not Applicable	0.44%
+	"1999"	"1999"	"May, 1999"	"1999/05"	"Unintentional"	"1"	8418	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"May, 1999"	"1999/05"	"Suicide"	"2"	2542	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"May, 1999"	"1999/05"	"Homicide"	"3"	1428	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"May, 1999"	"1999/05"	"Undetermined "	"4"	325	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"May, 1999"	"1999/05"	"Legal Intervention / Operations of War"	"5"	32	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"May, 1999"	"1999/05"	"Non-Injury, no intent classified"	"9"	179237	Not Applicable	Not Applicable	0.40%
+"Total"	"1999"	"1999"	"May, 1999"	"1999/05"			191982	Not Applicable	Not Applicable	0.43%
+	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Unintentional"	"1"	8195	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Suicide"	"2"	2434	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Homicide"	"3"	1421	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Undetermined "	"4"	311	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Legal Intervention / Operations of War"	"5"	26	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Jun., 1999"	"1999/06"	"Non-Injury, no intent classified"	"9"	167766	Not Applicable	Not Applicable	0.37%
+"Total"	"1999"	"1999"	"Jun., 1999"	"1999/06"			180153	Not Applicable	Not Applicable	0.40%
+	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Unintentional"	"1"	9318	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Suicide"	"2"	2550	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Homicide"	"3"	1532	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Undetermined "	"4"	359	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Legal Intervention / Operations of War"	"5"	31	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Jul., 1999"	"1999/07"	"Non-Injury, no intent classified"	"9"	173076	Not Applicable	Not Applicable	0.39%
+"Total"	"1999"	"1999"	"Jul., 1999"	"1999/07"			186866	Not Applicable	Not Applicable	0.42%
+	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Unintentional"	"1"	8832	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Suicide"	"2"	2589	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Homicide"	"3"	1476	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Undetermined "	"4"	342	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Aug., 1999"	"1999/08"	"Non-Injury, no intent classified"	"9"	169219	Not Applicable	Not Applicable	0.38%
+"Total"	"1999"	"1999"	"Aug., 1999"	"1999/08"			182496	Not Applicable	Not Applicable	0.41%
+	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Unintentional"	"1"	8106	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Suicide"	"2"	2251	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Homicide"	"3"	1503	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Undetermined "	"4"	299	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Legal Intervention / Operations of War"	"5"	44	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Sep., 1999"	"1999/09"	"Non-Injury, no intent classified"	"9"	168107	Not Applicable	Not Applicable	0.37%
+"Total"	"1999"	"1999"	"Sep., 1999"	"1999/09"			180310	Not Applicable	Not Applicable	0.40%
+	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Unintentional"	"1"	8354	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Suicide"	"2"	2439	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Homicide"	"3"	1450	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Undetermined "	"4"	339	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Oct., 1999"	"1999/10"	"Non-Injury, no intent classified"	"9"	183023	Not Applicable	Not Applicable	0.41%
+"Total"	"1999"	"1999"	"Oct., 1999"	"1999/10"			195639	Not Applicable	Not Applicable	0.44%
+	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Unintentional"	"1"	7850	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Suicide"	"2"	2424	Not Applicable	Not Applicable	0.01%
+	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Homicide"	"3"	1319	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Undetermined "	"4"	296	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Nov., 1999"	"1999/11"	"Non-Injury, no intent classified"	"9"	180169	Not Applicable	Not Applicable	0.40%
+"Total"	"1999"	"1999"	"Nov., 1999"	"1999/11"			192085	Not Applicable	Not Applicable	0.43%
+	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Unintentional"	"1"	8486	Not Applicable	Not Applicable	0.02%
+	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Suicide"	"2"	2236	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Homicide"	"3"	1476	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Undetermined "	"4"	340	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"1999"	"1999"	"Dec., 1999"	"1999/12"	"Non-Injury, no intent classified"	"9"	210209	Not Applicable	Not Applicable	0.47%
+"Total"	"1999"	"1999"	"Dec., 1999"	"1999/12"			222781	Not Applicable	Not Applicable	0.50%
+"Total"	"1999"	"1999"					2391399	Not Applicable	Not Applicable	5.32%
+	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Unintentional"	"1"	8387	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Suicide"	"2"	2592	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Homicide"	"3"	1397	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Undetermined "	"4"	349	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Legal Intervention / Operations of War"	"5"	44	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Jan., 2000"	"2000/01"	"Non-Injury, no intent classified"	"9"	235059	Not Applicable	Not Applicable	0.52%
+"Total"	"2000"	"2000"	"Jan., 2000"	"2000/01"			247828	Not Applicable	Not Applicable	0.55%
+	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Unintentional"	"1"	7175	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Suicide"	"2"	2338	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Homicide"	"3"	1261	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Undetermined "	"4"	297	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Legal Intervention / Operations of War"	"5"	28	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Feb., 2000"	"2000/02"	"Non-Injury, no intent classified"	"9"	192219	Not Applicable	Not Applicable	0.43%
+"Total"	"2000"	"2000"	"Feb., 2000"	"2000/02"			203318	Not Applicable	Not Applicable	0.45%
+	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Unintentional"	"1"	7548	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Suicide"	"2"	2520	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Homicide"	"3"	1318	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Undetermined "	"4"	338	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Legal Intervention / Operations of War"	"5"	25	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Mar., 2000"	"2000/03"	"Non-Injury, no intent classified"	"9"	190087	Not Applicable	Not Applicable	0.42%
+"Total"	"2000"	"2000"	"Mar., 2000"	"2000/03"			201836	Not Applicable	Not Applicable	0.45%
+	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Unintentional"	"1"	7836	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Suicide"	"2"	2483	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Homicide"	"3"	1278	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Undetermined "	"4"	336	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Apr., 2000"	"2000/04"	"Non-Injury, no intent classified"	"9"	178466	Not Applicable	Not Applicable	0.40%
+"Total"	"2000"	"2000"	"Apr., 2000"	"2000/04"			190426	Not Applicable	Not Applicable	0.42%
+	"2000"	"2000"	"May, 2000"	"2000/05"	"Unintentional"	"1"	8386	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"May, 2000"	"2000/05"	"Suicide"	"2"	2622	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"May, 2000"	"2000/05"	"Homicide"	"3"	1461	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"May, 2000"	"2000/05"	"Undetermined "	"4"	356	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"May, 2000"	"2000/05"	"Legal Intervention / Operations of War"	"5"	31	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"May, 2000"	"2000/05"	"Non-Injury, no intent classified"	"9"	180255	Not Applicable	Not Applicable	0.40%
+"Total"	"2000"	"2000"	"May, 2000"	"2000/05"			193111	Not Applicable	Not Applicable	0.43%
+	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Unintentional"	"1"	8323	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Suicide"	"2"	2445	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Homicide"	"3"	1460	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Undetermined "	"4"	320	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Jun., 2000"	"2000/06"	"Non-Injury, no intent classified"	"9"	170547	Not Applicable	Not Applicable	0.38%
+"Total"	"2000"	"2000"	"Jun., 2000"	"2000/06"			183122	Not Applicable	Not Applicable	0.41%
+	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Unintentional"	"1"	9055	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Suicide"	"2"	2482	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Homicide"	"3"	1555	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Undetermined "	"4"	332	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Legal Intervention / Operations of War"	"5"	45	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Jul., 2000"	"2000/07"	"Non-Injury, no intent classified"	"9"	175101	Not Applicable	Not Applicable	0.39%
+"Total"	"2000"	"2000"	"Jul., 2000"	"2000/07"			188570	Not Applicable	Not Applicable	0.42%
+	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Unintentional"	"1"	8662	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Suicide"	"2"	2556	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Homicide"	"3"	1510	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Undetermined "	"4"	341	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Legal Intervention / Operations of War"	"5"	33	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Aug., 2000"	"2000/08"	"Non-Injury, no intent classified"	"9"	175586	Not Applicable	Not Applicable	0.39%
+"Total"	"2000"	"2000"	"Aug., 2000"	"2000/08"			188688	Not Applicable	Not Applicable	0.42%
+	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Unintentional"	"1"	8086	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Suicide"	"2"	2336	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Homicide"	"3"	1425	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Undetermined "	"4"	294	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Legal Intervention / Operations of War"	"5"	32	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Sep., 2000"	"2000/09"	"Non-Injury, no intent classified"	"9"	174789	Not Applicable	Not Applicable	0.39%
+"Total"	"2000"	"2000"	"Sep., 2000"	"2000/09"			186962	Not Applicable	Not Applicable	0.42%
+	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Unintentional"	"1"	8131	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Suicide"	"2"	2480	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Homicide"	"3"	1424	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Undetermined "	"4"	298	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Oct., 2000"	"2000/10"	"Non-Injury, no intent classified"	"9"	187465	Not Applicable	Not Applicable	0.42%
+"Total"	"2000"	"2000"	"Oct., 2000"	"2000/10"			199825	Not Applicable	Not Applicable	0.44%
+	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Unintentional"	"1"	7752	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Suicide"	"2"	2273	Not Applicable	Not Applicable	0.01%
+	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Homicide"	"3"	1258	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Undetermined "	"4"	271	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Legal Intervention / Operations of War"	"5"	32	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Nov., 2000"	"2000/11"	"Non-Injury, no intent classified"	"9"	187708	Not Applicable	Not Applicable	0.42%
+"Total"	"2000"	"2000"	"Nov., 2000"	"2000/11"			199294	Not Applicable	Not Applicable	0.44%
+	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Unintentional"	"1"	8559	Not Applicable	Not Applicable	0.02%
+	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Suicide"	"2"	2223	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Homicide"	"3"	1418	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Undetermined "	"4"	287	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Legal Intervention / Operations of War"	"5"	24	Not Applicable	Not Applicable	0.00%
+	"2000"	"2000"	"Dec., 2000"	"2000/12"	"Non-Injury, no intent classified"	"9"	207860	Not Applicable	Not Applicable	0.46%
+"Total"	"2000"	"2000"	"Dec., 2000"	"2000/12"			220371	Not Applicable	Not Applicable	0.49%
+"Total"	"2000"	"2000"					2403351	Not Applicable	Not Applicable	5.35%
+	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Unintentional"	"1"	8079	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Suicide"	"2"	2510	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Homicide"	"3"	1417	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Undetermined "	"4"	330	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Legal Intervention / Operations of War"	"5"	42	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Jan., 2001"	"2001/01"	"Non-Injury, no intent classified"	"9"	214259	Not Applicable	Not Applicable	0.48%
+"Total"	"2001"	"2001"	"Jan., 2001"	"2001/01"			226637	Not Applicable	Not Applicable	0.50%
+	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Unintentional"	"1"	7330	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Suicide"	"2"	2328	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Homicide"	"3"	1133	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Undetermined "	"4"	312	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Feb., 2001"	"2001/02"	"Non-Injury, no intent classified"	"9"	187554	Not Applicable	Not Applicable	0.42%
+"Total"	"2001"	"2001"	"Feb., 2001"	"2001/02"			198684	Not Applicable	Not Applicable	0.44%
+	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Unintentional"	"1"	7935	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Suicide"	"2"	2546	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Homicide"	"3"	1266	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Undetermined "	"4"	354	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Mar., 2001"	"2001/03"	"Non-Injury, no intent classified"	"9"	203386	Not Applicable	Not Applicable	0.45%
+"Total"	"2001"	"2001"	"Mar., 2001"	"2001/03"			215524	Not Applicable	Not Applicable	0.48%
+	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Unintentional"	"1"	8161	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Suicide"	"2"	2599	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Homicide"	"3"	1404	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Undetermined "	"4"	371	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Apr., 2001"	"2001/04"	"Non-Injury, no intent classified"	"9"	190154	Not Applicable	Not Applicable	0.42%
+"Total"	"2001"	"2001"	"Apr., 2001"	"2001/04"			202723	Not Applicable	Not Applicable	0.45%
+	"2001"	"2001"	"May, 2001"	"2001/05"	"Unintentional"	"1"	8574	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"May, 2001"	"2001/05"	"Suicide"	"2"	2747	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"May, 2001"	"2001/05"	"Homicide"	"3"	1416	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"May, 2001"	"2001/05"	"Undetermined "	"4"	365	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"May, 2001"	"2001/05"	"Legal Intervention / Operations of War"	"5"	35	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"May, 2001"	"2001/05"	"Non-Injury, no intent classified"	"9"	187497	Not Applicable	Not Applicable	0.42%
+"Total"	"2001"	"2001"	"May, 2001"	"2001/05"			200634	Not Applicable	Not Applicable	0.45%
+	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Unintentional"	"1"	8605	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Suicide"	"2"	2560	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Homicide"	"3"	1464	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Undetermined "	"4"	366	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Jun., 2001"	"2001/06"	"Non-Injury, no intent classified"	"9"	178186	Not Applicable	Not Applicable	0.40%
+"Total"	"2001"	"2001"	"Jun., 2001"	"2001/06"			191219	Not Applicable	Not Applicable	0.43%
+	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Unintentional"	"1"	9354	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Suicide"	"2"	2746	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Homicide"	"3"	1650	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Undetermined "	"4"	386	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Legal Intervention / Operations of War"	"5"	45	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Jul., 2001"	"2001/07"	"Non-Injury, no intent classified"	"9"	177082	Not Applicable	Not Applicable	0.39%
+"Total"	"2001"	"2001"	"Jul., 2001"	"2001/07"			191263	Not Applicable	Not Applicable	0.43%
+	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Unintentional"	"1"	9230	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Suicide"	"2"	2674	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Homicide"	"3"	1509	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Undetermined "	"4"	374	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Legal Intervention / Operations of War"	"5"	30	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Aug., 2001"	"2001/08"	"Non-Injury, no intent classified"	"9"	177143	Not Applicable	Not Applicable	0.39%
+"Total"	"2001"	"2001"	"Aug., 2001"	"2001/08"			190960	Not Applicable	Not Applicable	0.43%
+	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Unintentional"	"1"	8222	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Suicide"	"2"	2407	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Homicide"	"3"	4402	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Undetermined "	"4"	359	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Sep., 2001"	"2001/09"	"Non-Injury, no intent classified"	"9"	173417	Not Applicable	Not Applicable	0.39%
+"Total"	"2001"	"2001"	"Sep., 2001"	"2001/09"			188834	Not Applicable	Not Applicable	0.42%
+	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Unintentional"	"1"	8807	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Suicide"	"2"	2589	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Homicide"	"3"	1618	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Undetermined "	"4"	321	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Oct., 2001"	"2001/10"	"Non-Injury, no intent classified"	"9"	189078	Not Applicable	Not Applicable	0.42%
+"Total"	"2001"	"2001"	"Oct., 2001"	"2001/10"			202447	Not Applicable	Not Applicable	0.45%
+	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Unintentional"	"1"	8535	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Suicide"	"2"	2513	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Homicide"	"3"	1471	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Undetermined "	"4"	352	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Nov., 2001"	"2001/11"	"Non-Injury, no intent classified"	"9"	184259	Not Applicable	Not Applicable	0.41%
+"Total"	"2001"	"2001"	"Nov., 2001"	"2001/11"			197164	Not Applicable	Not Applicable	0.44%
+	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Unintentional"	"1"	8705	Not Applicable	Not Applicable	0.02%
+	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Suicide"	"2"	2403	Not Applicable	Not Applicable	0.01%
+	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Homicide"	"3"	1558	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Undetermined "	"4"	308	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Legal Intervention / Operations of War"	"5"	30	Not Applicable	Not Applicable	0.00%
+	"2001"	"2001"	"Dec., 2001"	"2001/12"	"Non-Injury, no intent classified"	"9"	197332	Not Applicable	Not Applicable	0.44%
+"Total"	"2001"	"2001"	"Dec., 2001"	"2001/12"			210336	Not Applicable	Not Applicable	0.47%
+"Total"	"2001"	"2001"					2416425	Not Applicable	Not Applicable	5.38%
+	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Unintentional"	"1"	8775	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Suicide"	"2"	2760	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Homicide"	"3"	1424	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Undetermined "	"4"	395	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Legal Intervention / Operations of War"	"5"	36	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Jan., 2002"	"2002/01"	"Non-Injury, no intent classified"	"9"	212591	Not Applicable	Not Applicable	0.47%
+"Total"	"2002"	"2002"	"Jan., 2002"	"2002/01"			225981	Not Applicable	Not Applicable	0.50%
+	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Unintentional"	"1"	7761	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Suicide"	"2"	2418	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Homicide"	"3"	1218	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Undetermined "	"4"	403	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Legal Intervention / Operations of War"	"5"	24	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Feb., 2002"	"2002/02"	"Non-Injury, no intent classified"	"9"	197609	Not Applicable	Not Applicable	0.44%
+"Total"	"2002"	"2002"	"Feb., 2002"	"2002/02"			209433	Not Applicable	Not Applicable	0.47%
+	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Unintentional"	"1"	8926	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Suicide"	"2"	2611	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Homicide"	"3"	1390	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Undetermined "	"4"	430	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Legal Intervention / Operations of War"	"5"	30	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Mar., 2002"	"2002/03"	"Non-Injury, no intent classified"	"9"	213084	Not Applicable	Not Applicable	0.47%
+"Total"	"2002"	"2002"	"Mar., 2002"	"2002/03"			226471	Not Applicable	Not Applicable	0.50%
+	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Unintentional"	"1"	8261	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Suicide"	"2"	2754	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Homicide"	"3"	1395	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Undetermined "	"4"	415	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Legal Intervention / Operations of War"	"5"	29	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Apr., 2002"	"2002/04"	"Non-Injury, no intent classified"	"9"	186928	Not Applicable	Not Applicable	0.42%
+"Total"	"2002"	"2002"	"Apr., 2002"	"2002/04"			199782	Not Applicable	Not Applicable	0.44%
+	"2002"	"2002"	"May, 2002"	"2002/05"	"Unintentional"	"1"	9052	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"May, 2002"	"2002/05"	"Suicide"	"2"	2775	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"May, 2002"	"2002/05"	"Homicide"	"3"	1428	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"May, 2002"	"2002/05"	"Undetermined "	"4"	424	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"May, 2002"	"2002/05"	"Legal Intervention / Operations of War"	"5"	47	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"May, 2002"	"2002/05"	"Non-Injury, no intent classified"	"9"	186140	Not Applicable	Not Applicable	0.41%
+"Total"	"2002"	"2002"	"May, 2002"	"2002/05"			199866	Not Applicable	Not Applicable	0.44%
+	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Unintentional"	"1"	9198	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Suicide"	"2"	2588	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Homicide"	"3"	1450	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Undetermined "	"4"	414	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Jun., 2002"	"2002/06"	"Non-Injury, no intent classified"	"9"	174000	Not Applicable	Not Applicable	0.39%
+"Total"	"2002"	"2002"	"Jun., 2002"	"2002/06"			187688	Not Applicable	Not Applicable	0.42%
+	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Unintentional"	"1"	9815	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Suicide"	"2"	2813	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Homicide"	"3"	1638	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Undetermined "	"4"	409	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Legal Intervention / Operations of War"	"5"	35	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Jul., 2002"	"2002/07"	"Non-Injury, no intent classified"	"9"	178564	Not Applicable	Not Applicable	0.40%
+"Total"	"2002"	"2002"	"Jul., 2002"	"2002/07"			193274	Not Applicable	Not Applicable	0.43%
+	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Unintentional"	"1"	9361	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Suicide"	"2"	2791	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Homicide"	"3"	1628	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Undetermined "	"4"	400	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Legal Intervention / Operations of War"	"5"	35	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Aug., 2002"	"2002/08"	"Non-Injury, no intent classified"	"9"	176808	Not Applicable	Not Applicable	0.39%
+"Total"	"2002"	"2002"	"Aug., 2002"	"2002/08"			191023	Not Applicable	Not Applicable	0.43%
+	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Unintentional"	"1"	8786	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Suicide"	"2"	2648	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Homicide"	"3"	1687	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Undetermined "	"4"	394	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Legal Intervention / Operations of War"	"5"	28	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Sep., 2002"	"2002/09"	"Non-Injury, no intent classified"	"9"	174018	Not Applicable	Not Applicable	0.39%
+"Total"	"2002"	"2002"	"Sep., 2002"	"2002/09"			187561	Not Applicable	Not Applicable	0.42%
+	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Unintentional"	"1"	8961	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Suicide"	"2"	2589	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Homicide"	"3"	1481	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Undetermined "	"4"	394	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Oct., 2002"	"2002/10"	"Non-Injury, no intent classified"	"9"	186516	Not Applicable	Not Applicable	0.42%
+"Total"	"2002"	"2002"	"Oct., 2002"	"2002/10"			199975	Not Applicable	Not Applicable	0.45%
+	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Unintentional"	"1"	8784	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Suicide"	"2"	2481	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Homicide"	"3"	1441	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Undetermined "	"4"	396	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Legal Intervention / Operations of War"	"5"	32	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Nov., 2002"	"2002/11"	"Non-Injury, no intent classified"	"9"	189176	Not Applicable	Not Applicable	0.42%
+"Total"	"2002"	"2002"	"Nov., 2002"	"2002/11"			202310	Not Applicable	Not Applicable	0.45%
+	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Unintentional"	"1"	9062	Not Applicable	Not Applicable	0.02%
+	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Suicide"	"2"	2427	Not Applicable	Not Applicable	0.01%
+	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Homicide"	"3"	1458	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Undetermined "	"4"	356	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Legal Intervention / Operations of War"	"5"	36	Not Applicable	Not Applicable	0.00%
+	"2002"	"2002"	"Dec., 2002"	"2002/12"	"Non-Injury, no intent classified"	"9"	206684	Not Applicable	Not Applicable	0.46%
+"Total"	"2002"	"2002"	"Dec., 2002"	"2002/12"			220023	Not Applicable	Not Applicable	0.49%
+"Total"	"2002"	"2002"					2443387	Not Applicable	Not Applicable	5.44%
+	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Unintentional"	"1"	8948	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Suicide"	"2"	2692	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Homicide"	"3"	1383	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Undetermined "	"4"	426	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Legal Intervention / Operations of War"	"5"	43	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Jan., 2003"	"2003/01"	"Non-Injury, no intent classified"	"9"	210630	Not Applicable	Not Applicable	0.47%
+"Total"	"2003"	"2003"	"Jan., 2003"	"2003/01"			224122	Not Applicable	Not Applicable	0.50%
+	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Unintentional"	"1"	8094	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Suicide"	"2"	2302	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Homicide"	"3"	1241	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Undetermined "	"4"	385	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Legal Intervention / Operations of War"	"5"	31	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Feb., 2003"	"2003/02"	"Non-Injury, no intent classified"	"9"	188476	Not Applicable	Not Applicable	0.42%
+"Total"	"2003"	"2003"	"Feb., 2003"	"2003/02"			200529	Not Applicable	Not Applicable	0.45%
+	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Unintentional"	"1"	8566	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Suicide"	"2"	2773	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Homicide"	"3"	1460	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Undetermined "	"4"	435	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Mar., 2003"	"2003/03"	"Non-Injury, no intent classified"	"9"	200277	Not Applicable	Not Applicable	0.45%
+"Total"	"2003"	"2003"	"Mar., 2003"	"2003/03"			213548	Not Applicable	Not Applicable	0.48%
+	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Unintentional"	"1"	8606	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Suicide"	"2"	2637	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Homicide"	"3"	1454	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Undetermined "	"4"	417	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Legal Intervention / Operations of War"	"5"	40	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Apr., 2003"	"2003/04"	"Non-Injury, no intent classified"	"9"	186225	Not Applicable	Not Applicable	0.41%
+"Total"	"2003"	"2003"	"Apr., 2003"	"2003/04"			199379	Not Applicable	Not Applicable	0.44%
+	"2003"	"2003"	"May, 2003"	"2003/05"	"Unintentional"	"1"	9141	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"May, 2003"	"2003/05"	"Suicide"	"2"	2785	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"May, 2003"	"2003/05"	"Homicide"	"3"	1517	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"May, 2003"	"2003/05"	"Undetermined "	"4"	477	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"May, 2003"	"2003/05"	"Legal Intervention / Operations of War"	"5"	29	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"May, 2003"	"2003/05"	"Non-Injury, no intent classified"	"9"	185212	Not Applicable	Not Applicable	0.41%
+"Total"	"2003"	"2003"	"May, 2003"	"2003/05"			199161	Not Applicable	Not Applicable	0.44%
+	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Unintentional"	"1"	9282	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Suicide"	"2"	2803	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Homicide"	"3"	1489	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Undetermined "	"4"	448	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Jun., 2003"	"2003/06"	"Non-Injury, no intent classified"	"9"	177470	Not Applicable	Not Applicable	0.40%
+"Total"	"2003"	"2003"	"Jun., 2003"	"2003/06"			191526	Not Applicable	Not Applicable	0.43%
+	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Unintentional"	"1"	9922	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Suicide"	"2"	2767	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Homicide"	"3"	1670	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Undetermined "	"4"	454	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Legal Intervention / Operations of War"	"5"	41	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Jul., 2003"	"2003/07"	"Non-Injury, no intent classified"	"9"	178776	Not Applicable	Not Applicable	0.40%
+"Total"	"2003"	"2003"	"Jul., 2003"	"2003/07"			193630	Not Applicable	Not Applicable	0.43%
+	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Unintentional"	"1"	9688	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Suicide"	"2"	2693	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Homicide"	"3"	1626	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Undetermined "	"4"	435	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Legal Intervention / Operations of War"	"5"	30	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Aug., 2003"	"2003/08"	"Non-Injury, no intent classified"	"9"	178048	Not Applicable	Not Applicable	0.40%
+"Total"	"2003"	"2003"	"Aug., 2003"	"2003/08"			192520	Not Applicable	Not Applicable	0.43%
+	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Unintentional"	"1"	8891	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Suicide"	"2"	2559	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Homicide"	"3"	1541	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Undetermined "	"4"	385	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Sep., 2003"	"2003/09"	"Non-Injury, no intent classified"	"9"	175090	Not Applicable	Not Applicable	0.39%
+"Total"	"2003"	"2003"	"Sep., 2003"	"2003/09"			188503	Not Applicable	Not Applicable	0.42%
+	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Unintentional"	"1"	9379	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Suicide"	"2"	2564	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Homicide"	"3"	1487	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Undetermined "	"4"	380	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Legal Intervention / Operations of War"	"5"	43	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Oct., 2003"	"2003/10"	"Non-Injury, no intent classified"	"9"	188941	Not Applicable	Not Applicable	0.42%
+"Total"	"2003"	"2003"	"Oct., 2003"	"2003/10"			202794	Not Applicable	Not Applicable	0.45%
+	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Unintentional"	"1"	9220	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Suicide"	"2"	2499	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Homicide"	"3"	1372	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Undetermined "	"4"	390	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Legal Intervention / Operations of War"	"5"	43	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Nov., 2003"	"2003/11"	"Non-Injury, no intent classified"	"9"	187554	Not Applicable	Not Applicable	0.42%
+"Total"	"2003"	"2003"	"Nov., 2003"	"2003/11"			201078	Not Applicable	Not Applicable	0.45%
+	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Unintentional"	"1"	9540	Not Applicable	Not Applicable	0.02%
+	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Suicide"	"2"	2410	Not Applicable	Not Applicable	0.01%
+	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Homicide"	"3"	1492	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Undetermined "	"4"	440	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Legal Intervention / Operations of War"	"5"	29	Not Applicable	Not Applicable	0.00%
+	"2003"	"2003"	"Dec., 2003"	"2003/12"	"Non-Injury, no intent classified"	"9"	227587	Not Applicable	Not Applicable	0.51%
+"Total"	"2003"	"2003"	"Dec., 2003"	"2003/12"			241498	Not Applicable	Not Applicable	0.54%
+"Total"	"2003"	"2003"					2448288	Not Applicable	Not Applicable	5.45%
+	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Unintentional"	"1"	9540	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Suicide"	"2"	2624	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Homicide"	"3"	1430	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Undetermined "	"4"	447	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Legal Intervention / Operations of War"	"5"	49	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Jan., 2004"	"2004/01"	"Non-Injury, no intent classified"	"9"	223670	Not Applicable	Not Applicable	0.50%
+"Total"	"2004"	"2004"	"Jan., 2004"	"2004/01"			237760	Not Applicable	Not Applicable	0.53%
+	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Unintentional"	"1"	8466	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Suicide"	"2"	2509	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Homicide"	"3"	1226	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Undetermined "	"4"	417	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Legal Intervention / Operations of War"	"5"	39	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Feb., 2004"	"2004/02"	"Non-Injury, no intent classified"	"9"	191525	Not Applicable	Not Applicable	0.43%
+"Total"	"2004"	"2004"	"Feb., 2004"	"2004/02"			204182	Not Applicable	Not Applicable	0.45%
+	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Unintentional"	"1"	8981	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Suicide"	"2"	2845	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Homicide"	"3"	1399	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Undetermined "	"4"	436	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Legal Intervention / Operations of War"	"5"	45	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Mar., 2004"	"2004/03"	"Non-Injury, no intent classified"	"9"	196289	Not Applicable	Not Applicable	0.44%
+"Total"	"2004"	"2004"	"Mar., 2004"	"2004/03"			209995	Not Applicable	Not Applicable	0.47%
+	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Unintentional"	"1"	8769	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Suicide"	"2"	2718	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Homicide"	"3"	1385	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Undetermined "	"4"	391	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Apr., 2004"	"2004/04"	"Non-Injury, no intent classified"	"9"	183072	Not Applicable	Not Applicable	0.41%
+"Total"	"2004"	"2004"	"Apr., 2004"	"2004/04"			196362	Not Applicable	Not Applicable	0.44%
+	"2004"	"2004"	"May, 2004"	"2004/05"	"Unintentional"	"1"	9555	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"May, 2004"	"2004/05"	"Suicide"	"2"	2771	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"May, 2004"	"2004/05"	"Homicide"	"3"	1527	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"May, 2004"	"2004/05"	"Undetermined "	"4"	410	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"May, 2004"	"2004/05"	"Legal Intervention / Operations of War"	"5"	28	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"May, 2004"	"2004/05"	"Non-Injury, no intent classified"	"9"	180185	Not Applicable	Not Applicable	0.40%
+"Total"	"2004"	"2004"	"May, 2004"	"2004/05"			194476	Not Applicable	Not Applicable	0.43%
+	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Unintentional"	"1"	9546	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Suicide"	"2"	2722	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Homicide"	"3"	1444	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Undetermined "	"4"	415	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Legal Intervention / Operations of War"	"5"	30	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Jun., 2004"	"2004/06"	"Non-Injury, no intent classified"	"9"	172116	Not Applicable	Not Applicable	0.38%
+"Total"	"2004"	"2004"	"Jun., 2004"	"2004/06"			186273	Not Applicable	Not Applicable	0.41%
+	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Unintentional"	"1"	10105	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Suicide"	"2"	2911	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Homicide"	"3"	1681	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Undetermined "	"4"	426	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Legal Intervention / Operations of War"	"5"	25	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Jul., 2004"	"2004/07"	"Non-Injury, no intent classified"	"9"	175584	Not Applicable	Not Applicable	0.39%
+"Total"	"2004"	"2004"	"Jul., 2004"	"2004/07"			190732	Not Applicable	Not Applicable	0.42%
+	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Unintentional"	"1"	9900	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Suicide"	"2"	2743	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Homicide"	"3"	1572	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Undetermined "	"4"	411	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Aug., 2004"	"2004/08"	"Non-Injury, no intent classified"	"9"	174733	Not Applicable	Not Applicable	0.39%
+"Total"	"2004"	"2004"	"Aug., 2004"	"2004/08"			189386	Not Applicable	Not Applicable	0.42%
+	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Unintentional"	"1"	9215	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Suicide"	"2"	2715	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Homicide"	"3"	1495	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Undetermined "	"4"	418	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Legal Intervention / Operations of War"	"5"	31	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Sep., 2004"	"2004/09"	"Non-Injury, no intent classified"	"9"	170543	Not Applicable	Not Applicable	0.38%
+"Total"	"2004"	"2004"	"Sep., 2004"	"2004/09"			184417	Not Applicable	Not Applicable	0.41%
+	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Unintentional"	"1"	9582	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Suicide"	"2"	2772	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Homicide"	"3"	1457	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Undetermined "	"4"	408	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Legal Intervention / Operations of War"	"5"	33	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Oct., 2004"	"2004/10"	"Non-Injury, no intent classified"	"9"	183961	Not Applicable	Not Applicable	0.41%
+"Total"	"2004"	"2004"	"Oct., 2004"	"2004/10"			198213	Not Applicable	Not Applicable	0.44%
+	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Unintentional"	"1"	8687	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Suicide"	"2"	2642	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Homicide"	"3"	1346	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Undetermined "	"4"	404	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Legal Intervention / Operations of War"	"5"	29	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Nov., 2004"	"2004/11"	"Non-Injury, no intent classified"	"9"	180697	Not Applicable	Not Applicable	0.40%
+"Total"	"2004"	"2004"	"Nov., 2004"	"2004/11"			193805	Not Applicable	Not Applicable	0.43%
+	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Unintentional"	"1"	9666	Not Applicable	Not Applicable	0.02%
+	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Suicide"	"2"	2467	Not Applicable	Not Applicable	0.01%
+	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Homicide"	"3"	1395	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Undetermined "	"4"	393	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2004"	"2004"	"Dec., 2004"	"2004/12"	"Non-Injury, no intent classified"	"9"	198056	Not Applicable	Not Applicable	0.44%
+"Total"	"2004"	"2004"	"Dec., 2004"	"2004/12"			212014	Not Applicable	Not Applicable	0.47%
+"Total"	"2004"	"2004"					2397615	Not Applicable	Not Applicable	5.34%
+	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Unintentional"	"1"	9461	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Suicide"	"2"	2703	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Homicide"	"3"	1398	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Undetermined "	"4"	407	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Legal Intervention / Operations of War"	"5"	33	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Jan., 2005"	"2005/01"	"Non-Injury, no intent classified"	"9"	212431	Not Applicable	Not Applicable	0.47%
+"Total"	"2005"	"2005"	"Jan., 2005"	"2005/01"			226433	Not Applicable	Not Applicable	0.50%
+	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Unintentional"	"1"	8530	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Suicide"	"2"	2454	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Homicide"	"3"	1290	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Undetermined "	"4"	359	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Legal Intervention / Operations of War"	"5"	24	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Feb., 2005"	"2005/02"	"Non-Injury, no intent classified"	"9"	200679	Not Applicable	Not Applicable	0.45%
+"Total"	"2005"	"2005"	"Feb., 2005"	"2005/02"			213336	Not Applicable	Not Applicable	0.47%
+	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Unintentional"	"1"	9376	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Suicide"	"2"	2826	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Homicide"	"3"	1386	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Undetermined "	"4"	404	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Legal Intervention / Operations of War"	"5"	36	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Mar., 2005"	"2005/03"	"Non-Injury, no intent classified"	"9"	217067	Not Applicable	Not Applicable	0.48%
+"Total"	"2005"	"2005"	"Mar., 2005"	"2005/03"			231095	Not Applicable	Not Applicable	0.51%
+	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Unintentional"	"1"	9459	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Suicide"	"2"	2804	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Homicide"	"3"	1453	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Undetermined "	"4"	385	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Legal Intervention / Operations of War"	"5"	30	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Apr., 2005"	"2005/04"	"Non-Injury, no intent classified"	"9"	190704	Not Applicable	Not Applicable	0.42%
+"Total"	"2005"	"2005"	"Apr., 2005"	"2005/04"			204835	Not Applicable	Not Applicable	0.46%
+	"2005"	"2005"	"May, 2005"	"2005/05"	"Unintentional"	"1"	9865	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"May, 2005"	"2005/05"	"Suicide"	"2"	2896	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"May, 2005"	"2005/05"	"Homicide"	"3"	1580	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"May, 2005"	"2005/05"	"Undetermined "	"4"	367	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"May, 2005"	"2005/05"	"Legal Intervention / Operations of War"	"5"	56	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"May, 2005"	"2005/05"	"Non-Injury, no intent classified"	"9"	186062	Not Applicable	Not Applicable	0.41%
+"Total"	"2005"	"2005"	"May, 2005"	"2005/05"			200826	Not Applicable	Not Applicable	0.45%
+	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Unintentional"	"1"	9788	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Suicide"	"2"	2763	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Homicide"	"3"	1593	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Undetermined "	"4"	374	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Legal Intervention / Operations of War"	"5"	32	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Jun., 2005"	"2005/06"	"Non-Injury, no intent classified"	"9"	172825	Not Applicable	Not Applicable	0.38%
+"Total"	"2005"	"2005"	"Jun., 2005"	"2005/06"			187375	Not Applicable	Not Applicable	0.42%
+	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Unintentional"	"1"	10952	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Suicide"	"2"	2833	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Homicide"	"3"	1737	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Undetermined "	"4"	451	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Jul., 2005"	"2005/07"	"Non-Injury, no intent classified"	"9"	175356	Not Applicable	Not Applicable	0.39%
+"Total"	"2005"	"2005"	"Jul., 2005"	"2005/07"			191366	Not Applicable	Not Applicable	0.43%
+	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Unintentional"	"1"	10840	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Suicide"	"2"	2752	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Homicide"	"3"	1681	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Undetermined "	"4"	387	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Legal Intervention / Operations of War"	"5"	39	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Aug., 2005"	"2005/08"	"Non-Injury, no intent classified"	"9"	175092	Not Applicable	Not Applicable	0.39%
+"Total"	"2005"	"2005"	"Aug., 2005"	"2005/08"			190791	Not Applicable	Not Applicable	0.42%
+	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Unintentional"	"1"	9677	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Suicide"	"2"	2770	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Homicide"	"3"	1474	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Undetermined "	"4"	385	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Sep., 2005"	"2005/09"	"Non-Injury, no intent classified"	"9"	171136	Not Applicable	Not Applicable	0.38%
+"Total"	"2005"	"2005"	"Sep., 2005"	"2005/09"			185480	Not Applicable	Not Applicable	0.41%
+	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Unintentional"	"1"	10043	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Suicide"	"2"	2718	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Homicide"	"3"	1582	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Undetermined "	"4"	402	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Legal Intervention / Operations of War"	"5"	35	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Oct., 2005"	"2005/10"	"Non-Injury, no intent classified"	"9"	183234	Not Applicable	Not Applicable	0.41%
+"Total"	"2005"	"2005"	"Oct., 2005"	"2005/10"			198014	Not Applicable	Not Applicable	0.44%
+	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Unintentional"	"1"	9738	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Suicide"	"2"	2572	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Homicide"	"3"	1461	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Undetermined "	"4"	429	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Legal Intervention / Operations of War"	"5"	47	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Nov., 2005"	"2005/11"	"Non-Injury, no intent classified"	"9"	184366	Not Applicable	Not Applicable	0.41%
+"Total"	"2005"	"2005"	"Nov., 2005"	"2005/11"			198613	Not Applicable	Not Applicable	0.44%
+	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Unintentional"	"1"	10080	Not Applicable	Not Applicable	0.02%
+	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Suicide"	"2"	2546	Not Applicable	Not Applicable	0.01%
+	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Homicide"	"3"	1489	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Undetermined "	"4"	392	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"2005"	"2005"	"Dec., 2005"	"2005/12"	"Non-Injury, no intent classified"	"9"	205312	Not Applicable	Not Applicable	0.46%
+"Total"	"2005"	"2005"	"Dec., 2005"	"2005/12"			219853	Not Applicable	Not Applicable	0.49%
+"Total"	"2005"	"2005"					2448017	Not Applicable	Not Applicable	5.45%
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Unintentional"	"1"	9552	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Suicide"	"2"	2730	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Homicide"	"3"	1555	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Undetermined "	"4"	454	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Legal Intervention / Operations of War"	"5"	42	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Jan., 2006"	"2006/01"	"Non-Injury, no intent classified"	"9"	205752	Not Applicable	Not Applicable	0.46%
+"Total"	"2006"	"2006"	"Jan., 2006"	"2006/01"			220085	Not Applicable	Not Applicable	0.49%
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Unintentional"	"1"	8953	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Suicide"	"2"	2424	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Homicide"	"3"	1223	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Undetermined "	"4"	395	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Legal Intervention / Operations of War"	"5"	32	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Feb., 2006"	"2006/02"	"Non-Injury, no intent classified"	"9"	188007	Not Applicable	Not Applicable	0.42%
+"Total"	"2006"	"2006"	"Feb., 2006"	"2006/02"			201034	Not Applicable	Not Applicable	0.45%
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Unintentional"	"1"	10131	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Suicide"	"2"	2763	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Homicide"	"3"	1356	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Undetermined "	"4"	421	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Legal Intervention / Operations of War"	"5"	39	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Mar., 2006"	"2006/03"	"Non-Injury, no intent classified"	"9"	207488	Not Applicable	Not Applicable	0.46%
+"Total"	"2006"	"2006"	"Mar., 2006"	"2006/03"			222198	Not Applicable	Not Applicable	0.49%
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Unintentional"	"1"	9853	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Suicide"	"2"	2844	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Homicide"	"3"	1526	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Undetermined "	"4"	447	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Apr., 2006"	"2006/04"	"Non-Injury, no intent classified"	"9"	187377	Not Applicable	Not Applicable	0.42%
+"Total"	"2006"	"2006"	"Apr., 2006"	"2006/04"			202085	Not Applicable	Not Applicable	0.45%
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Unintentional"	"1"	10364	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Suicide"	"2"	2952	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Homicide"	"3"	1603	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Undetermined "	"4"	424	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Legal Intervention / Operations of War"	"5"	44	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"May, 2006"	"2006/05"	"Non-Injury, no intent classified"	"9"	185241	Not Applicable	Not Applicable	0.41%
+"Total"	"2006"	"2006"	"May, 2006"	"2006/05"			200628	Not Applicable	Not Applicable	0.45%
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Unintentional"	"1"	10418	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Suicide"	"2"	2875	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Homicide"	"3"	1607	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Undetermined "	"4"	364	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Jun., 2006"	"2006/06"	"Non-Injury, no intent classified"	"9"	173100	Not Applicable	Not Applicable	0.39%
+"Total"	"2006"	"2006"	"Jun., 2006"	"2006/06"			188402	Not Applicable	Not Applicable	0.42%
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Unintentional"	"1"	11344	Not Applicable	Not Applicable	0.03%
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Suicide"	"2"	2984	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Homicide"	"3"	1797	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Undetermined "	"4"	467	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Jul., 2006"	"2006/07"	"Non-Injury, no intent classified"	"9"	177947	Not Applicable	Not Applicable	0.40%
+"Total"	"2006"	"2006"	"Jul., 2006"	"2006/07"			194576	Not Applicable	Not Applicable	0.43%
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Unintentional"	"1"	10773	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Suicide"	"2"	2810	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Homicide"	"3"	1587	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Undetermined "	"4"	441	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Aug., 2006"	"2006/08"	"Non-Injury, no intent classified"	"9"	175319	Not Applicable	Not Applicable	0.39%
+"Total"	"2006"	"2006"	"Aug., 2006"	"2006/08"			190968	Not Applicable	Not Applicable	0.43%
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Unintentional"	"1"	10006	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Suicide"	"2"	2724	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Homicide"	"3"	1593	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Undetermined "	"4"	414	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Sep., 2006"	"2006/09"	"Non-Injury, no intent classified"	"9"	173404	Not Applicable	Not Applicable	0.39%
+"Total"	"2006"	"2006"	"Sep., 2006"	"2006/09"			188178	Not Applicable	Not Applicable	0.42%
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Unintentional"	"1"	10208	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Suicide"	"2"	2866	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Homicide"	"3"	1600	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Undetermined "	"4"	436	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Legal Intervention / Operations of War"	"5"	41	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Oct., 2006"	"2006/10"	"Non-Injury, no intent classified"	"9"	187050	Not Applicable	Not Applicable	0.42%
+"Total"	"2006"	"2006"	"Oct., 2006"	"2006/10"			202201	Not Applicable	Not Applicable	0.45%
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Unintentional"	"1"	9860	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Suicide"	"2"	2697	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Homicide"	"3"	1528	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Undetermined "	"4"	443	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Legal Intervention / Operations of War"	"5"	39	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Nov., 2006"	"2006/11"	"Non-Injury, no intent classified"	"9"	185886	Not Applicable	Not Applicable	0.41%
+"Total"	"2006"	"2006"	"Nov., 2006"	"2006/11"			200453	Not Applicable	Not Applicable	0.45%
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Unintentional"	"1"	10137	Not Applicable	Not Applicable	0.02%
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Suicide"	"2"	2631	Not Applicable	Not Applicable	0.01%
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Homicide"	"3"	1598	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Undetermined "	"4"	425	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2006"	"2006"	"Dec., 2006"	"2006/12"	"Non-Injury, no intent classified"	"9"	200628	Not Applicable	Not Applicable	0.45%
+"Total"	"2006"	"2006"	"Dec., 2006"	"2006/12"			215456	Not Applicable	Not Applicable	0.48%
+"Total"	"2006"	"2006"					2426264	Not Applicable	Not Applicable	5.40%
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Unintentional"	"1"	10058	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Suicide"	"2"	2841	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Homicide"	"3"	1518	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Undetermined "	"4"	435	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Legal Intervention / Operations of War"	"5"	28	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Jan., 2007"	"2007/01"	"Non-Injury, no intent classified"	"9"	207225	Not Applicable	Not Applicable	0.46%
+"Total"	"2007"	"2007"	"Jan., 2007"	"2007/01"			222105	Not Applicable	Not Applicable	0.49%
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Unintentional"	"1"	9526	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Suicide"	"2"	2473	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Homicide"	"3"	1212	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Undetermined "	"4"	409	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Legal Intervention / Operations of War"	"5"	31	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Feb., 2007"	"2007/02"	"Non-Injury, no intent classified"	"9"	191066	Not Applicable	Not Applicable	0.43%
+"Total"	"2007"	"2007"	"Feb., 2007"	"2007/02"			204717	Not Applicable	Not Applicable	0.46%
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Unintentional"	"1"	10466	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Suicide"	"2"	2954	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Homicide"	"3"	1497	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Undetermined "	"4"	463	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Legal Intervention / Operations of War"	"5"	49	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Mar., 2007"	"2007/03"	"Non-Injury, no intent classified"	"9"	202691	Not Applicable	Not Applicable	0.45%
+"Total"	"2007"	"2007"	"Mar., 2007"	"2007/03"			218120	Not Applicable	Not Applicable	0.49%
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Unintentional"	"1"	10046	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Suicide"	"2"	2792	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Homicide"	"3"	1487	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Undetermined "	"4"	435	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Apr., 2007"	"2007/04"	"Non-Injury, no intent classified"	"9"	188124	Not Applicable	Not Applicable	0.42%
+"Total"	"2007"	"2007"	"Apr., 2007"	"2007/04"			202921	Not Applicable	Not Applicable	0.45%
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Unintentional"	"1"	10376	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Suicide"	"2"	3089	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Homicide"	"3"	1524	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Undetermined "	"4"	464	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Legal Intervention / Operations of War"	"5"	41	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"May, 2007"	"2007/05"	"Non-Injury, no intent classified"	"9"	184209	Not Applicable	Not Applicable	0.41%
+"Total"	"2007"	"2007"	"May, 2007"	"2007/05"			199703	Not Applicable	Not Applicable	0.44%
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Unintentional"	"1"	10362	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Suicide"	"2"	2915	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Homicide"	"3"	1669	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Undetermined "	"4"	463	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Legal Intervention / Operations of War"	"5"	45	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Jun., 2007"	"2007/06"	"Non-Injury, no intent classified"	"9"	172753	Not Applicable	Not Applicable	0.38%
+"Total"	"2007"	"2007"	"Jun., 2007"	"2007/06"			188207	Not Applicable	Not Applicable	0.42%
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Unintentional"	"1"	10998	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Suicide"	"2"	3088	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Homicide"	"3"	1760	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Undetermined "	"4"	485	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Legal Intervention / Operations of War"	"5"	36	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Jul., 2007"	"2007/07"	"Non-Injury, no intent classified"	"9"	175960	Not Applicable	Not Applicable	0.39%
+"Total"	"2007"	"2007"	"Jul., 2007"	"2007/07"			192327	Not Applicable	Not Applicable	0.43%
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Unintentional"	"1"	10837	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Suicide"	"2"	2998	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Homicide"	"3"	1709	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Undetermined "	"4"	448	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Legal Intervention / Operations of War"	"5"	48	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Aug., 2007"	"2007/08"	"Non-Injury, no intent classified"	"9"	175719	Not Applicable	Not Applicable	0.39%
+"Total"	"2007"	"2007"	"Aug., 2007"	"2007/08"			191759	Not Applicable	Not Applicable	0.43%
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Unintentional"	"1"	10242	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Suicide"	"2"	2951	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Homicide"	"3"	1520	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Undetermined "	"4"	416	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Legal Intervention / Operations of War"	"5"	32	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Sep., 2007"	"2007/09"	"Non-Injury, no intent classified"	"9"	173305	Not Applicable	Not Applicable	0.39%
+"Total"	"2007"	"2007"	"Sep., 2007"	"2007/09"			188466	Not Applicable	Not Applicable	0.42%
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Unintentional"	"1"	10288	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Suicide"	"2"	2991	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Homicide"	"3"	1528	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Undetermined "	"4"	439	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Oct., 2007"	"2007/10"	"Non-Injury, no intent classified"	"9"	183360	Not Applicable	Not Applicable	0.41%
+"Total"	"2007"	"2007"	"Oct., 2007"	"2007/10"			198633	Not Applicable	Not Applicable	0.44%
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Unintentional"	"1"	9926	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Suicide"	"2"	2794	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Homicide"	"3"	1402	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Undetermined "	"4"	449	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Legal Intervention / Operations of War"	"5"	31	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Nov., 2007"	"2007/11"	"Non-Injury, no intent classified"	"9"	185534	Not Applicable	Not Applicable	0.41%
+"Total"	"2007"	"2007"	"Nov., 2007"	"2007/11"			200136	Not Applicable	Not Applicable	0.45%
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Unintentional"	"1"	10581	Not Applicable	Not Applicable	0.02%
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Suicide"	"2"	2712	Not Applicable	Not Applicable	0.01%
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Homicide"	"3"	1535	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Undetermined "	"4"	475	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Legal Intervention / Operations of War"	"5"	28	Not Applicable	Not Applicable	0.00%
+	"2007"	"2007"	"Dec., 2007"	"2007/12"	"Non-Injury, no intent classified"	"9"	201287	Not Applicable	Not Applicable	0.45%
+"Total"	"2007"	"2007"	"Dec., 2007"	"2007/12"			216618	Not Applicable	Not Applicable	0.48%
+"Total"	"2007"	"2007"					2423712	Not Applicable	Not Applicable	5.40%
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Unintentional"	"1"	10044	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Suicide"	"2"	3036	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Homicide"	"3"	1400	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Undetermined "	"4"	397	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Legal Intervention / Operations of War"	"5"	39	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Jan., 2008"	"2008/01"	"Non-Injury, no intent classified"	"9"	208993	Not Applicable	Not Applicable	0.47%
+"Total"	"2008"	"2008"	"Jan., 2008"	"2008/01"			223909	Not Applicable	Not Applicable	0.50%
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Unintentional"	"1"	9917	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Suicide"	"2"	2785	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Homicide"	"3"	1317	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Undetermined "	"4"	455	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Legal Intervention / Operations of War"	"5"	44	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Feb., 2008"	"2008/02"	"Non-Injury, no intent classified"	"9"	208923	Not Applicable	Not Applicable	0.47%
+"Total"	"2008"	"2008"	"Feb., 2008"	"2008/02"			223441	Not Applicable	Not Applicable	0.50%
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Unintentional"	"1"	10160	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Suicide"	"2"	3044	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Homicide"	"3"	1441	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Undetermined "	"4"	477	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Mar., 2008"	"2008/03"	"Non-Injury, no intent classified"	"9"	217555	Not Applicable	Not Applicable	0.48%
+"Total"	"2008"	"2008"	"Mar., 2008"	"2008/03"			232715	Not Applicable	Not Applicable	0.52%
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Unintentional"	"1"	9841	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Suicide"	"2"	3058	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Homicide"	"3"	1496	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Undetermined "	"4"	411	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Legal Intervention / Operations of War"	"5"	35	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Apr., 2008"	"2008/04"	"Non-Injury, no intent classified"	"9"	191960	Not Applicable	Not Applicable	0.43%
+"Total"	"2008"	"2008"	"Apr., 2008"	"2008/04"			206801	Not Applicable	Not Applicable	0.46%
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Unintentional"	"1"	10539	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Suicide"	"2"	3166	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Homicide"	"3"	1469	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Undetermined "	"4"	442	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"May, 2008"	"2008/05"	"Non-Injury, no intent classified"	"9"	186778	Not Applicable	Not Applicable	0.42%
+"Total"	"2008"	"2008"	"May, 2008"	"2008/05"			202428	Not Applicable	Not Applicable	0.45%
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Unintentional"	"1"	10293	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Suicide"	"2"	3096	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Homicide"	"3"	1576	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Undetermined "	"4"	436	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Legal Intervention / Operations of War"	"5"	35	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Jun., 2008"	"2008/06"	"Non-Injury, no intent classified"	"9"	175158	Not Applicable	Not Applicable	0.39%
+"Total"	"2008"	"2008"	"Jun., 2008"	"2008/06"			190594	Not Applicable	Not Applicable	0.42%
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Unintentional"	"1"	10545	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Suicide"	"2"	3128	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Homicide"	"3"	1633	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Undetermined "	"4"	401	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Jul., 2008"	"2008/07"	"Non-Injury, no intent classified"	"9"	176245	Not Applicable	Not Applicable	0.39%
+"Total"	"2008"	"2008"	"Jul., 2008"	"2008/07"			191990	Not Applicable	Not Applicable	0.43%
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Unintentional"	"1"	10548	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Suicide"	"2"	3024	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Homicide"	"3"	1596	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Undetermined "	"4"	455	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Legal Intervention / Operations of War"	"5"	28	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Aug., 2008"	"2008/08"	"Non-Injury, no intent classified"	"9"	176278	Not Applicable	Not Applicable	0.39%
+"Total"	"2008"	"2008"	"Aug., 2008"	"2008/08"			191929	Not Applicable	Not Applicable	0.43%
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Unintentional"	"1"	9660	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Suicide"	"2"	3115	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Homicide"	"3"	1571	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Undetermined "	"4"	409	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Legal Intervention / Operations of War"	"5"	36	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Sep., 2008"	"2008/09"	"Non-Injury, no intent classified"	"9"	172990	Not Applicable	Not Applicable	0.39%
+"Total"	"2008"	"2008"	"Sep., 2008"	"2008/09"			187781	Not Applicable	Not Applicable	0.42%
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Unintentional"	"1"	10209	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Suicide"	"2"	3011	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Homicide"	"3"	1485	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Undetermined "	"4"	373	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Oct., 2008"	"2008/10"	"Non-Injury, no intent classified"	"9"	185430	Not Applicable	Not Applicable	0.41%
+"Total"	"2008"	"2008"	"Oct., 2008"	"2008/10"			200535	Not Applicable	Not Applicable	0.45%
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Unintentional"	"1"	9749	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Suicide"	"2"	2812	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Homicide"	"3"	1449	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Undetermined "	"4"	389	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Legal Intervention / Operations of War"	"5"	27	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Nov., 2008"	"2008/11"	"Non-Injury, no intent classified"	"9"	187131	Not Applicable	Not Applicable	0.42%
+"Total"	"2008"	"2008"	"Nov., 2008"	"2008/11"			201557	Not Applicable	Not Applicable	0.45%
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Unintentional"	"1"	10397	Not Applicable	Not Applicable	0.02%
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Suicide"	"2"	2760	Not Applicable	Not Applicable	0.01%
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Homicide"	"3"	1393	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Undetermined "	"4"	406	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Legal Intervention / Operations of War"	"5"	31	Not Applicable	Not Applicable	0.00%
+	"2008"	"2008"	"Dec., 2008"	"2008/12"	"Non-Injury, no intent classified"	"9"	203317	Not Applicable	Not Applicable	0.45%
+"Total"	"2008"	"2008"	"Dec., 2008"	"2008/12"			218304	Not Applicable	Not Applicable	0.49%
+"Total"	"2008"	"2008"					2471984	Not Applicable	Not Applicable	5.50%
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Unintentional"	"1"	9972	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Suicide"	"2"	2976	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Homicide"	"3"	1348	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Undetermined "	"4"	426	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Legal Intervention / Operations of War"	"5"	33	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Non-Injury, no intent classified"	"9"	208207	Not Applicable	Not Applicable	0.46%
+"Total"	"2009"	"2009"	"Jan., 2009"	"2009/01"			222962	Not Applicable	Not Applicable	0.50%
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Unintentional"	"1"	8933	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Suicide"	"2"	2720	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Homicide"	"3"	1121	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Undetermined "	"4"	381	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Non-Injury, no intent classified"	"9"	187237	Not Applicable	Not Applicable	0.42%
+"Total"	"2009"	"2009"	"Feb., 2009"	"2009/02"			200429	Not Applicable	Not Applicable	0.45%
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Unintentional"	"1"	9840	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Suicide"	"2"	3044	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Homicide"	"3"	1362	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Undetermined "	"4"	438	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Legal Intervention / Operations of War"	"5"	47	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Non-Injury, no intent classified"	"9"	201436	Not Applicable	Not Applicable	0.45%
+"Total"	"2009"	"2009"	"Mar., 2009"	"2009/03"			216167	Not Applicable	Not Applicable	0.48%
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Unintentional"	"1"	9620	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Suicide"	"2"	3027	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Homicide"	"3"	1421	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Undetermined "	"4"	388	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Legal Intervention / Operations of War"	"5"	31	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Non-Injury, no intent classified"	"9"	188468	Not Applicable	Not Applicable	0.42%
+"Total"	"2009"	"2009"	"Apr., 2009"	"2009/04"			202955	Not Applicable	Not Applicable	0.45%
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Unintentional"	"1"	10120	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Suicide"	"2"	3266	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Homicide"	"3"	1497	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Undetermined "	"4"	439	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Legal Intervention / Operations of War"	"5"	30	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"May, 2009"	"2009/05"	"Non-Injury, no intent classified"	"9"	185109	Not Applicable	Not Applicable	0.41%
+"Total"	"2009"	"2009"	"May, 2009"	"2009/05"			200461	Not Applicable	Not Applicable	0.45%
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Unintentional"	"1"	10055	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Suicide"	"2"	3254	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Homicide"	"3"	1459	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Undetermined "	"4"	406	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Legal Intervention / Operations of War"	"5"	25	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Non-Injury, no intent classified"	"9"	175747	Not Applicable	Not Applicable	0.39%
+"Total"	"2009"	"2009"	"Jun., 2009"	"2009/06"			190946	Not Applicable	Not Applicable	0.43%
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Unintentional"	"1"	10473	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Suicide"	"2"	3246	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Homicide"	"3"	1610	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Undetermined "	"4"	431	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Legal Intervention / Operations of War"	"5"	33	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Jul., 2009"	"2009/07"	"Non-Injury, no intent classified"	"9"	178791	Not Applicable	Not Applicable	0.40%
+"Total"	"2009"	"2009"	"Jul., 2009"	"2009/07"			194584	Not Applicable	Not Applicable	0.43%
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Unintentional"	"1"	10272	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Suicide"	"2"	3305	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Homicide"	"3"	1512	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Undetermined "	"4"	433	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Legal Intervention / Operations of War"	"5"	30	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Non-Injury, no intent classified"	"9"	176931	Not Applicable	Not Applicable	0.39%
+"Total"	"2009"	"2009"	"Aug., 2009"	"2009/08"			192483	Not Applicable	Not Applicable	0.43%
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Unintentional"	"1"	9541	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Suicide"	"2"	3265	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Homicide"	"3"	1347	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Undetermined "	"4"	425	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Non-Injury, no intent classified"	"9"	175098	Not Applicable	Not Applicable	0.39%
+"Total"	"2009"	"2009"	"Sep., 2009"	"2009/09"			189714	Not Applicable	Not Applicable	0.42%
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Unintentional"	"1"	9795	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Suicide"	"2"	3126	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Homicide"	"3"	1389	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Undetermined "	"4"	404	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Legal Intervention / Operations of War"	"5"	31	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Non-Injury, no intent classified"	"9"	192546	Not Applicable	Not Applicable	0.43%
+"Total"	"2009"	"2009"	"Oct., 2009"	"2009/10"			207291	Not Applicable	Not Applicable	0.46%
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Unintentional"	"1"	9484	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Suicide"	"2"	2833	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Homicide"	"3"	1381	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Undetermined "	"4"	423	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Legal Intervention / Operations of War"	"5"	40	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Non-Injury, no intent classified"	"9"	187186	Not Applicable	Not Applicable	0.42%
+"Total"	"2009"	"2009"	"Nov., 2009"	"2009/11"			201347	Not Applicable	Not Applicable	0.45%
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Unintentional"	"1"	9916	Not Applicable	Not Applicable	0.02%
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Suicide"	"2"	2847	Not Applicable	Not Applicable	0.01%
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Homicide"	"3"	1352	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Undetermined "	"4"	411	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Legal Intervention / Operations of War"	"5"	45	Not Applicable	Not Applicable	0.00%
+	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Non-Injury, no intent classified"	"9"	203253	Not Applicable	Not Applicable	0.45%
+"Total"	"2009"	"2009"	"Dec., 2009"	"2009/12"			217824	Not Applicable	Not Applicable	0.48%
+"Total"	"2009"	"2009"					2437163	Not Applicable	Not Applicable	5.43%
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Unintentional"	"1"	9876	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Suicide"	"2"	3066	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Homicide"	"3"	1311	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Undetermined "	"4"	412	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Legal Intervention / Operations of War"	"5"	33	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Non-Injury, no intent classified"	"9"	208085	Not Applicable	Not Applicable	0.46%
+"Total"	"2010"	"2010"	"Jan., 2010"	"2010/01"			222783	Not Applicable	Not Applicable	0.50%
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Unintentional"	"1"	8873	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Suicide"	"2"	2785	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Homicide"	"3"	1049	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Undetermined "	"4"	398	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Legal Intervention / Operations of War"	"5"	36	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	"Non-Injury, no intent classified"	"9"	187085	Not Applicable	Not Applicable	0.42%
+"Total"	"2010"	"2010"	"Feb., 2010"	"2010/02"			200226	Not Applicable	Not Applicable	0.45%
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Unintentional"	"1"	9756	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Suicide"	"2"	3251	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Homicide"	"3"	1298	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Undetermined "	"4"	438	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Legal Intervention / Operations of War"	"5"	47	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Non-Injury, no intent classified"	"9"	204144	Not Applicable	Not Applicable	0.45%
+"Total"	"2010"	"2010"	"Mar., 2010"	"2010/03"			218934	Not Applicable	Not Applicable	0.49%
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Unintentional"	"1"	9808	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Suicide"	"2"	3238	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Homicide"	"3"	1379	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Undetermined "	"4"	430	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Legal Intervention / Operations of War"	"5"	31	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	"Non-Injury, no intent classified"	"9"	187401	Not Applicable	Not Applicable	0.42%
+"Total"	"2010"	"2010"	"Apr., 2010"	"2010/04"			202287	Not Applicable	Not Applicable	0.45%
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Unintentional"	"1"	10379	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Suicide"	"2"	3419	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Homicide"	"3"	1448	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Undetermined "	"4"	413	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Legal Intervention / Operations of War"	"5"	40	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"May, 2010"	"2010/05"	"Non-Injury, no intent classified"	"9"	188228	Not Applicable	Not Applicable	0.42%
+"Total"	"2010"	"2010"	"May, 2010"	"2010/05"			203927	Not Applicable	Not Applicable	0.45%
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Unintentional"	"1"	10021	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Suicide"	"2"	3286	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Homicide"	"3"	1425	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Undetermined "	"4"	394	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Legal Intervention / Operations of War"	"5"	36	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Non-Injury, no intent classified"	"9"	177315	Not Applicable	Not Applicable	0.39%
+"Total"	"2010"	"2010"	"Jun., 2010"	"2010/06"			192477	Not Applicable	Not Applicable	0.43%
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Unintentional"	"1"	10919	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Suicide"	"2"	3450	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Homicide"	"3"	1537	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Undetermined "	"4"	411	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Non-Injury, no intent classified"	"9"	182620	Not Applicable	Not Applicable	0.41%
+"Total"	"2010"	"2010"	"Jul., 2010"	"2010/07"			198971	Not Applicable	Not Applicable	0.44%
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Unintentional"	"1"	10728	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Suicide"	"2"	3447	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Homicide"	"3"	1474	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Undetermined "	"4"	386	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Legal Intervention / Operations of War"	"5"	33	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Non-Injury, no intent classified"	"9"	180838	Not Applicable	Not Applicable	0.40%
+"Total"	"2010"	"2010"	"Aug., 2010"	"2010/08"			196906	Not Applicable	Not Applicable	0.44%
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Unintentional"	"1"	9955	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Suicide"	"2"	3153	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Homicide"	"3"	1368	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Undetermined "	"4"	393	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Legal Intervention / Operations of War"	"5"	35	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	"Non-Injury, no intent classified"	"9"	178225	Not Applicable	Not Applicable	0.40%
+"Total"	"2010"	"2010"	"Sep., 2010"	"2010/09"			193129	Not Applicable	Not Applicable	0.43%
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Unintentional"	"1"	10413	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Suicide"	"2"	3233	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Homicide"	"3"	1393	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Undetermined "	"4"	419	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Non-Injury, no intent classified"	"9"	191355	Not Applicable	Not Applicable	0.43%
+"Total"	"2010"	"2010"	"Oct., 2010"	"2010/10"			206851	Not Applicable	Not Applicable	0.46%
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Unintentional"	"1"	9898	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Suicide"	"2"	2992	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Homicide"	"3"	1307	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Undetermined "	"4"	397	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Legal Intervention / Operations of War"	"5"	26	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Non-Injury, no intent classified"	"9"	191508	Not Applicable	Not Applicable	0.43%
+"Total"	"2010"	"2010"	"Nov., 2010"	"2010/11"			206128	Not Applicable	Not Applicable	0.46%
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Unintentional"	"1"	10233	Not Applicable	Not Applicable	0.02%
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Suicide"	"2"	3044	Not Applicable	Not Applicable	0.01%
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Homicide"	"3"	1270	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Undetermined "	"4"	417	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Legal Intervention / Operations of War"	"5"	32	Not Applicable	Not Applicable	0.00%
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Non-Injury, no intent classified"	"9"	210820	Not Applicable	Not Applicable	0.47%
+"Total"	"2010"	"2010"	"Dec., 2010"	"2010/12"			225816	Not Applicable	Not Applicable	0.50%
+"Total"	"2010"	"2010"					2468435	Not Applicable	Not Applicable	5.50%
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Unintentional"	"1"	10214	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Suicide"	"2"	3155	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Homicide"	"3"	1303	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Undetermined "	"4"	444	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Legal Intervention / Operations of War"	"5"	48	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Non-Injury, no intent classified"	"9"	218526	Not Applicable	Not Applicable	0.49%
+"Total"	"2011"	"2011"	"Jan., 2011"	"2011/01"			233690	Not Applicable	Not Applicable	0.52%
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Unintentional"	"1"	9500	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Suicide"	"2"	2778	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Homicide"	"3"	1023	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Undetermined "	"4"	421	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Legal Intervention / Operations of War"	"5"	36	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	"Non-Injury, no intent classified"	"9"	198025	Not Applicable	Not Applicable	0.44%
+"Total"	"2011"	"2011"	"Feb., 2011"	"2011/02"			211783	Not Applicable	Not Applicable	0.47%
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Unintentional"	"1"	10262	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Suicide"	"2"	3392	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Homicide"	"3"	1249	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Undetermined "	"4"	455	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Legal Intervention / Operations of War"	"5"	44	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Non-Injury, no intent classified"	"9"	209792	Not Applicable	Not Applicable	0.47%
+"Total"	"2011"	"2011"	"Mar., 2011"	"2011/03"			225194	Not Applicable	Not Applicable	0.50%
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Unintentional"	"1"	10589	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Suicide"	"2"	3446	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Homicide"	"3"	1367	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Undetermined "	"4"	405	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Legal Intervention / Operations of War"	"5"	43	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Non-Injury, no intent classified"	"9"	192438	Not Applicable	Not Applicable	0.43%
+"Total"	"2011"	"2011"	"Apr., 2011"	"2011/04"			208288	Not Applicable	Not Applicable	0.46%
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Unintentional"	"1"	10893	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Suicide"	"2"	3466	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Homicide"	"3"	1467	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Undetermined "	"4"	395	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Legal Intervention / Operations of War"	"5"	42	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"May, 2011"	"2011/05"	"Non-Injury, no intent classified"	"9"	192093	Not Applicable	Not Applicable	0.43%
+"Total"	"2011"	"2011"	"May, 2011"	"2011/05"			208356	Not Applicable	Not Applicable	0.46%
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Unintentional"	"1"	10553	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Suicide"	"2"	3355	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Homicide"	"3"	1368	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Undetermined "	"4"	376	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Legal Intervention / Operations of War"	"5"	37	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Non-Injury, no intent classified"	"9"	181641	Not Applicable	Not Applicable	0.40%
+"Total"	"2011"	"2011"	"Jun., 2011"	"2011/06"			197330	Not Applicable	Not Applicable	0.44%
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Unintentional"	"1"	11704	Not Applicable	Not Applicable	0.03%
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Suicide"	"2"	3573	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Homicide"	"3"	1605	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Undetermined "	"4"	423	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	"Non-Injury, no intent classified"	"9"	184748	Not Applicable	Not Applicable	0.41%
+"Total"	"2011"	"2011"	"Jul., 2011"	"2011/07"			202091	Not Applicable	Not Applicable	0.45%
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Unintentional"	"1"	10955	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Suicide"	"2"	3498	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Homicide"	"3"	1443	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Undetermined "	"4"	392	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Legal Intervention / Operations of War"	"5"	33	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	"Non-Injury, no intent classified"	"9"	184183	Not Applicable	Not Applicable	0.41%
+"Total"	"2011"	"2011"	"Aug., 2011"	"2011/08"			200504	Not Applicable	Not Applicable	0.45%
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Unintentional"	"1"	10176	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Suicide"	"2"	3332	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Homicide"	"3"	1386	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Undetermined "	"4"	369	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Legal Intervention / Operations of War"	"5"	41	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Non-Injury, no intent classified"	"9"	180077	Not Applicable	Not Applicable	0.40%
+"Total"	"2011"	"2011"	"Sep., 2011"	"2011/09"			195381	Not Applicable	Not Applicable	0.44%
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Unintentional"	"1"	10767	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Suicide"	"2"	3306	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Homicide"	"3"	1385	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Undetermined "	"4"	370	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Legal Intervention / Operations of War"	"5"	44	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Non-Injury, no intent classified"	"9"	192102	Not Applicable	Not Applicable	0.43%
+"Total"	"2011"	"2011"	"Oct., 2011"	"2011/10"			207974	Not Applicable	Not Applicable	0.46%
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Unintentional"	"1"	10311	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Suicide"	"2"	3136	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Homicide"	"3"	1284	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Undetermined "	"4"	340	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Legal Intervention / Operations of War"	"5"	42	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Non-Injury, no intent classified"	"9"	191026	Not Applicable	Not Applicable	0.43%
+"Total"	"2011"	"2011"	"Nov., 2011"	"2011/11"			206139	Not Applicable	Not Applicable	0.46%
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Unintentional"	"1"	10514	Not Applicable	Not Applicable	0.02%
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Suicide"	"2"	3081	Not Applicable	Not Applicable	0.01%
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Homicide"	"3"	1358	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Undetermined "	"4"	383	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Legal Intervention / Operations of War"	"5"	49	Not Applicable	Not Applicable	0.00%
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	"Non-Injury, no intent classified"	"9"	203343	Not Applicable	Not Applicable	0.45%
+"Total"	"2011"	"2011"	"Dec., 2011"	"2011/12"			218728	Not Applicable	Not Applicable	0.49%
+"Total"	"2011"	"2011"					2515458	Not Applicable	Not Applicable	5.60%
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Unintentional"	"1"	10496	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Suicide"	"2"	3308	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Homicide"	"3"	1330	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Undetermined "	"4"	391	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Legal Intervention / Operations of War"	"5"	43	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Non-Injury, no intent classified"	"9"	209800	Not Applicable	Not Applicable	0.47%
+"Total"	"2012"	"2012"	"Jan., 2012"	"2012/01"			225368	Not Applicable	Not Applicable	0.50%
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Unintentional"	"1"	9816	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Suicide"	"2"	3094	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Homicide"	"3"	1103	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Undetermined "	"4"	385	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Legal Intervention / Operations of War"	"5"	39	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Non-Injury, no intent classified"	"9"	194525	Not Applicable	Not Applicable	0.43%
+"Total"	"2012"	"2012"	"Feb., 2012"	"2012/02"			208962	Not Applicable	Not Applicable	0.47%
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Unintentional"	"1"	10651	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Suicide"	"2"	3397	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Homicide"	"3"	1373	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Undetermined "	"4"	397	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Legal Intervention / Operations of War"	"5"	47	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Non-Injury, no intent classified"	"9"	205573	Not Applicable	Not Applicable	0.46%
+"Total"	"2012"	"2012"	"Mar., 2012"	"2012/03"			221438	Not Applicable	Not Applicable	0.49%
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Unintentional"	"1"	10131	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Suicide"	"2"	3424	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Homicide"	"3"	1349	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Undetermined "	"4"	337	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Legal Intervention / Operations of War"	"5"	44	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Non-Injury, no intent classified"	"9"	192860	Not Applicable	Not Applicable	0.43%
+"Total"	"2012"	"2012"	"Apr., 2012"	"2012/04"			208145	Not Applicable	Not Applicable	0.46%
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Unintentional"	"1"	10529	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Suicide"	"2"	3704	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Homicide"	"3"	1403	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Undetermined "	"4"	435	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"May, 2012"	"2012/05"	"Non-Injury, no intent classified"	"9"	191826	Not Applicable	Not Applicable	0.43%
+"Total"	"2012"	"2012"	"May, 2012"	"2012/05"			207931	Not Applicable	Not Applicable	0.46%
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Unintentional"	"1"	11094	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Suicide"	"2"	3468	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Homicide"	"3"	1415	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Undetermined "	"4"	438	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Legal Intervention / Operations of War"	"5"	60	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Non-Injury, no intent classified"	"9"	182394	Not Applicable	Not Applicable	0.41%
+"Total"	"2012"	"2012"	"Jun., 2012"	"2012/06"			198869	Not Applicable	Not Applicable	0.44%
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Unintentional"	"1"	11530	Not Applicable	Not Applicable	0.03%
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Suicide"	"2"	3636	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Homicide"	"3"	1582	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Undetermined "	"4"	445	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Legal Intervention / Operations of War"	"5"	62	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Non-Injury, no intent classified"	"9"	186674	Not Applicable	Not Applicable	0.42%
+"Total"	"2012"	"2012"	"Jul., 2012"	"2012/07"			203929	Not Applicable	Not Applicable	0.45%
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Unintentional"	"1"	11056	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Suicide"	"2"	3544	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Homicide"	"3"	1499	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Undetermined "	"4"	457	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Legal Intervention / Operations of War"	"5"	54	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Non-Injury, no intent classified"	"9"	188038	Not Applicable	Not Applicable	0.42%
+"Total"	"2012"	"2012"	"Aug., 2012"	"2012/08"			204648	Not Applicable	Not Applicable	0.46%
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Unintentional"	"1"	10512	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Suicide"	"2"	3387	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Homicide"	"3"	1450	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Undetermined "	"4"	395	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Legal Intervention / Operations of War"	"5"	49	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	"Non-Injury, no intent classified"	"9"	185059	Not Applicable	Not Applicable	0.41%
+"Total"	"2012"	"2012"	"Sep., 2012"	"2012/09"			200852	Not Applicable	Not Applicable	0.45%
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Unintentional"	"1"	10644	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Suicide"	"2"	3330	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Homicide"	"3"	1406	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Undetermined "	"4"	365	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Legal Intervention / Operations of War"	"5"	42	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	"Non-Injury, no intent classified"	"9"	197771	Not Applicable	Not Applicable	0.44%
+"Total"	"2012"	"2012"	"Oct., 2012"	"2012/10"			213558	Not Applicable	Not Applicable	0.48%
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Unintentional"	"1"	10307	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Suicide"	"2"	3137	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Homicide"	"3"	1338	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Undetermined "	"4"	355	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Legal Intervention / Operations of War"	"5"	49	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Non-Injury, no intent classified"	"9"	199015	Not Applicable	Not Applicable	0.44%
+"Total"	"2012"	"2012"	"Nov., 2012"	"2012/11"			214201	Not Applicable	Not Applicable	0.48%
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Unintentional"	"1"	11026	Not Applicable	Not Applicable	0.02%
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Suicide"	"2"	3171	Not Applicable	Not Applicable	0.01%
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Homicide"	"3"	1440	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Undetermined "	"4"	337	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Legal Intervention / Operations of War"	"5"	45	Not Applicable	Not Applicable	0.00%
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Non-Injury, no intent classified"	"9"	219359	Not Applicable	Not Applicable	0.49%
+"Total"	"2012"	"2012"	"Dec., 2012"	"2012/12"			235378	Not Applicable	Not Applicable	0.52%
+"Total"	"2012"	"2012"					2543279	Not Applicable	Not Applicable	5.66%
+	"2013"	"2013"	"Jan., 2013"	"2013/01"	"Unintentional"	"1"	11305	Not Applicable	Not Applicable	0.03%
+	"2013"	"2013"	"Jan., 2013"	"2013/01"	"Suicide"	"2"	3529	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Jan., 2013"	"2013/01"	"Homicide"	"3"	1373	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Jan., 2013"	"2013/01"	"Undetermined "	"4"	394	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Jan., 2013"	"2013/01"	"Legal Intervention / Operations of War"	"5"	51	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Jan., 2013"	"2013/01"	"Non-Injury, no intent classified"	"9"	244437	Not Applicable	Not Applicable	0.54%
+"Total"	"2013"	"2013"	"Jan., 2013"	"2013/01"			261089	Not Applicable	Not Applicable	0.58%
+	"2013"	"2013"	"Feb., 2013"	"2013/02"	"Unintentional"	"1"	10035	Not Applicable	Not Applicable	0.02%
+	"2013"	"2013"	"Feb., 2013"	"2013/02"	"Suicide"	"2"	3016	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Feb., 2013"	"2013/02"	"Homicide"	"3"	1078	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Feb., 2013"	"2013/02"	"Undetermined "	"4"	353	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Feb., 2013"	"2013/02"	"Legal Intervention / Operations of War"	"5"	29	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Feb., 2013"	"2013/02"	"Non-Injury, no intent classified"	"9"	203103	Not Applicable	Not Applicable	0.45%
+"Total"	"2013"	"2013"	"Feb., 2013"	"2013/02"			217614	Not Applicable	Not Applicable	0.48%
+	"2013"	"2013"	"Mar., 2013"	"2013/03"	"Unintentional"	"1"	10909	Not Applicable	Not Applicable	0.02%
+	"2013"	"2013"	"Mar., 2013"	"2013/03"	"Suicide"	"2"	3576	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Mar., 2013"	"2013/03"	"Homicide"	"3"	1266	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Mar., 2013"	"2013/03"	"Undetermined "	"4"	456	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Mar., 2013"	"2013/03"	"Legal Intervention / Operations of War"	"5"	45	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Mar., 2013"	"2013/03"	"Non-Injury, no intent classified"	"9"	216619	Not Applicable	Not Applicable	0.48%
+"Total"	"2013"	"2013"	"Mar., 2013"	"2013/03"			232871	Not Applicable	Not Applicable	0.52%
+	"2013"	"2013"	"Apr., 2013"	"2013/04"	"Unintentional"	"1"	10386	Not Applicable	Not Applicable	0.02%
+	"2013"	"2013"	"Apr., 2013"	"2013/04"	"Suicide"	"2"	3526	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Apr., 2013"	"2013/04"	"Homicide"	"3"	1271	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Apr., 2013"	"2013/04"	"Undetermined "	"4"	383	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Apr., 2013"	"2013/04"	"Legal Intervention / Operations of War"	"5"	46	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Apr., 2013"	"2013/04"	"Non-Injury, no intent classified"	"9"	198177	Not Applicable	Not Applicable	0.44%
+"Total"	"2013"	"2013"	"Apr., 2013"	"2013/04"			213789	Not Applicable	Not Applicable	0.48%
+	"2013"	"2013"	"May, 2013"	"2013/05"	"Unintentional"	"1"	10797	Not Applicable	Not Applicable	0.02%
+	"2013"	"2013"	"May, 2013"	"2013/05"	"Suicide"	"2"	3538	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"May, 2013"	"2013/05"	"Homicide"	"3"	1337	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"May, 2013"	"2013/05"	"Undetermined "	"4"	363	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"May, 2013"	"2013/05"	"Legal Intervention / Operations of War"	"5"	51	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"May, 2013"	"2013/05"	"Non-Injury, no intent classified"	"9"	193990	Not Applicable	Not Applicable	0.43%
+"Total"	"2013"	"2013"	"May, 2013"	"2013/05"			210076	Not Applicable	Not Applicable	0.47%
+	"2013"	"2013"	"Jun., 2013"	"2013/06"	"Unintentional"	"1"	11071	Not Applicable	Not Applicable	0.02%
+	"2013"	"2013"	"Jun., 2013"	"2013/06"	"Suicide"	"2"	3479	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Jun., 2013"	"2013/06"	"Homicide"	"3"	1488	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Jun., 2013"	"2013/06"	"Undetermined "	"4"	411	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Jun., 2013"	"2013/06"	"Legal Intervention / Operations of War"	"5"	47	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Jun., 2013"	"2013/06"	"Non-Injury, no intent classified"	"9"	183514	Not Applicable	Not Applicable	0.41%
+"Total"	"2013"	"2013"	"Jun., 2013"	"2013/06"			200010	Not Applicable	Not Applicable	0.45%
+	"2013"	"2013"	"Jul., 2013"	"2013/07"	"Unintentional"	"1"	11305	Not Applicable	Not Applicable	0.03%
+	"2013"	"2013"	"Jul., 2013"	"2013/07"	"Suicide"	"2"	3640	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Jul., 2013"	"2013/07"	"Homicide"	"3"	1557	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Jul., 2013"	"2013/07"	"Undetermined "	"4"	396	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Jul., 2013"	"2013/07"	"Legal Intervention / Operations of War"	"5"	46	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Jul., 2013"	"2013/07"	"Non-Injury, no intent classified"	"9"	187561	Not Applicable	Not Applicable	0.42%
+"Total"	"2013"	"2013"	"Jul., 2013"	"2013/07"			204505	Not Applicable	Not Applicable	0.46%
+	"2013"	"2013"	"Aug., 2013"	"2013/08"	"Unintentional"	"1"	11316	Not Applicable	Not Applicable	0.03%
+	"2013"	"2013"	"Aug., 2013"	"2013/08"	"Suicide"	"2"	3580	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Aug., 2013"	"2013/08"	"Homicide"	"3"	1387	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Aug., 2013"	"2013/08"	"Undetermined "	"4"	384	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Aug., 2013"	"2013/08"	"Legal Intervention / Operations of War"	"5"	48	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Aug., 2013"	"2013/08"	"Non-Injury, no intent classified"	"9"	187870	Not Applicable	Not Applicable	0.42%
+"Total"	"2013"	"2013"	"Aug., 2013"	"2013/08"			204585	Not Applicable	Not Applicable	0.46%
+	"2013"	"2013"	"Sep., 2013"	"2013/09"	"Unintentional"	"1"	10701	Not Applicable	Not Applicable	0.02%
+	"2013"	"2013"	"Sep., 2013"	"2013/09"	"Suicide"	"2"	3450	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Sep., 2013"	"2013/09"	"Homicide"	"3"	1295	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Sep., 2013"	"2013/09"	"Undetermined "	"4"	364	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Sep., 2013"	"2013/09"	"Legal Intervention / Operations of War"	"5"	43	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Sep., 2013"	"2013/09"	"Non-Injury, no intent classified"	"9"	182927	Not Applicable	Not Applicable	0.41%
+"Total"	"2013"	"2013"	"Sep., 2013"	"2013/09"			198780	Not Applicable	Not Applicable	0.44%
+	"2013"	"2013"	"Oct., 2013"	"2013/10"	"Unintentional"	"1"	10831	Not Applicable	Not Applicable	0.02%
+	"2013"	"2013"	"Oct., 2013"	"2013/10"	"Suicide"	"2"	3467	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Oct., 2013"	"2013/10"	"Homicide"	"3"	1346	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Oct., 2013"	"2013/10"	"Undetermined "	"4"	357	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Oct., 2013"	"2013/10"	"Legal Intervention / Operations of War"	"5"	49	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Oct., 2013"	"2013/10"	"Non-Injury, no intent classified"	"9"	195652	Not Applicable	Not Applicable	0.44%
+"Total"	"2013"	"2013"	"Oct., 2013"	"2013/10"			211702	Not Applicable	Not Applicable	0.47%
+	"2013"	"2013"	"Nov., 2013"	"2013/11"	"Unintentional"	"1"	10888	Not Applicable	Not Applicable	0.02%
+	"2013"	"2013"	"Nov., 2013"	"2013/11"	"Suicide"	"2"	3172	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Nov., 2013"	"2013/11"	"Homicide"	"3"	1317	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Nov., 2013"	"2013/11"	"Undetermined "	"4"	351	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Nov., 2013"	"2013/11"	"Legal Intervention / Operations of War"	"5"	40	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Nov., 2013"	"2013/11"	"Non-Injury, no intent classified"	"9"	196082	Not Applicable	Not Applicable	0.44%
+"Total"	"2013"	"2013"	"Nov., 2013"	"2013/11"			211850	Not Applicable	Not Applicable	0.47%
+	"2013"	"2013"	"Dec., 2013"	"2013/12"	"Unintentional"	"1"	11013	Not Applicable	Not Applicable	0.02%
+	"2013"	"2013"	"Dec., 2013"	"2013/12"	"Suicide"	"2"	3176	Not Applicable	Not Applicable	0.01%
+	"2013"	"2013"	"Dec., 2013"	"2013/12"	"Homicide"	"3"	1406	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Dec., 2013"	"2013/12"	"Undetermined "	"4"	375	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Dec., 2013"	"2013/12"	"Legal Intervention / Operations of War"	"5"	36	Not Applicable	Not Applicable	0.00%
+	"2013"	"2013"	"Dec., 2013"	"2013/12"	"Non-Injury, no intent classified"	"9"	214116	Not Applicable	Not Applicable	0.48%
+"Total"	"2013"	"2013"	"Dec., 2013"	"2013/12"			230122	Not Applicable	Not Applicable	0.51%
+"Total"	"2013"	"2013"					2596993	Not Applicable	Not Applicable	5.78%
+	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Unintentional"	"1"	11461	Not Applicable	Not Applicable	0.03%
+	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Suicide"	"2"	3320	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Homicide"	"3"	1213	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Undetermined "	"4"	407	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Legal Intervention / Operations of War"	"5"	41	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Non-Injury, no intent classified"	"9"	226856	Not Applicable	Not Applicable	0.51%
+"Total"	"2014"	"2014"	"Jan., 2014"	"2014/01"			243298	Not Applicable	Not Applicable	0.54%
+	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Unintentional"	"1"	10286	Not Applicable	Not Applicable	0.02%
+	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Suicide"	"2"	3091	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Homicide"	"3"	1050	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Undetermined "	"4"	347	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Legal Intervention / Operations of War"	"5"	29	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Non-Injury, no intent classified"	"9"	197177	Not Applicable	Not Applicable	0.44%
+"Total"	"2014"	"2014"	"Feb., 2014"	"2014/02"			211980	Not Applicable	Not Applicable	0.47%
+	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Unintentional"	"1"	11120	Not Applicable	Not Applicable	0.02%
+	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Suicide"	"2"	3408	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Homicide"	"3"	1261	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Undetermined "	"4"	389	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Legal Intervention / Operations of War"	"5"	48	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Non-Injury, no intent classified"	"9"	212251	Not Applicable	Not Applicable	0.47%
+"Total"	"2014"	"2014"	"Mar., 2014"	"2014/03"			228477	Not Applicable	Not Applicable	0.51%
+	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Unintentional"	"1"	10608	Not Applicable	Not Applicable	0.02%
+	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Suicide"	"2"	3606	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Homicide"	"3"	1277	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Undetermined "	"4"	380	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Legal Intervention / Operations of War"	"5"	53	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Non-Injury, no intent classified"	"9"	199676	Not Applicable	Not Applicable	0.44%
+"Total"	"2014"	"2014"	"Apr., 2014"	"2014/04"			215600	Not Applicable	Not Applicable	0.48%
+	"2014"	"2014"	"May, 2014"	"2014/05"	"Unintentional"	"1"	11360	Not Applicable	Not Applicable	0.03%
+	"2014"	"2014"	"May, 2014"	"2014/05"	"Suicide"	"2"	3589	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"May, 2014"	"2014/05"	"Homicide"	"3"	1398	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"May, 2014"	"2014/05"	"Undetermined "	"4"	421	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"May, 2014"	"2014/05"	"Legal Intervention / Operations of War"	"5"	51	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"May, 2014"	"2014/05"	"Non-Injury, no intent classified"	"9"	200043	Not Applicable	Not Applicable	0.45%
+"Total"	"2014"	"2014"	"May, 2014"	"2014/05"			216862	Not Applicable	Not Applicable	0.48%
+	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Unintentional"	"1"	11446	Not Applicable	Not Applicable	0.03%
+	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Suicide"	"2"	3552	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Homicide"	"3"	1376	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Undetermined "	"4"	386	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Legal Intervention / Operations of War"	"5"	55	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Non-Injury, no intent classified"	"9"	187872	Not Applicable	Not Applicable	0.42%
+"Total"	"2014"	"2014"	"Jun., 2014"	"2014/06"			204687	Not Applicable	Not Applicable	0.46%
+	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Unintentional"	"1"	11743	Not Applicable	Not Applicable	0.03%
+	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Suicide"	"2"	3534	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Homicide"	"3"	1382	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Undetermined "	"4"	408	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Legal Intervention / Operations of War"	"5"	49	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Non-Injury, no intent classified"	"9"	192257	Not Applicable	Not Applicable	0.43%
+"Total"	"2014"	"2014"	"Jul., 2014"	"2014/07"			209373	Not Applicable	Not Applicable	0.47%
+	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Unintentional"	"1"	11688	Not Applicable	Not Applicable	0.03%
+	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Suicide"	"2"	4027	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Homicide"	"3"	1467	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Undetermined "	"4"	386	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Legal Intervention / Operations of War"	"5"	52	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Non-Injury, no intent classified"	"9"	190393	Not Applicable	Not Applicable	0.42%
+"Total"	"2014"	"2014"	"Aug., 2014"	"2014/08"			208013	Not Applicable	Not Applicable	0.46%
+	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Unintentional"	"1"	11022	Not Applicable	Not Applicable	0.02%
+	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Suicide"	"2"	4034	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Homicide"	"3"	1307	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Undetermined "	"4"	362	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Legal Intervention / Operations of War"	"5"	39	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Non-Injury, no intent classified"	"9"	188510	Not Applicable	Not Applicable	0.42%
+"Total"	"2014"	"2014"	"Sep., 2014"	"2014/09"			205274	Not Applicable	Not Applicable	0.46%
+	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Unintentional"	"1"	11579	Not Applicable	Not Applicable	0.03%
+	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Suicide"	"2"	3791	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Homicide"	"3"	1423	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Undetermined "	"4"	363	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Legal Intervention / Operations of War"	"5"	32	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Non-Injury, no intent classified"	"9"	200959	Not Applicable	Not Applicable	0.45%
+"Total"	"2014"	"2014"	"Oct., 2014"	"2014/10"			218147	Not Applicable	Not Applicable	0.49%
+	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Unintentional"	"1"	11644	Not Applicable	Not Applicable	0.03%
+	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Suicide"	"2"	3480	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Homicide"	"3"	1307	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Undetermined "	"4"	357	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Legal Intervention / Operations of War"	"5"	40	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Non-Injury, no intent classified"	"9"	204489	Not Applicable	Not Applicable	0.46%
+"Total"	"2014"	"2014"	"Nov., 2014"	"2014/11"			221317	Not Applicable	Not Applicable	0.49%
+	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Unintentional"	"1"	11971	Not Applicable	Not Applicable	0.03%
+	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Suicide"	"2"	3394	Not Applicable	Not Applicable	0.01%
+	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Homicide"	"3"	1411	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Undetermined "	"4"	391	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Legal Intervention / Operations of War"	"5"	40	Not Applicable	Not Applicable	0.00%
+	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Non-Injury, no intent classified"	"9"	226183	Not Applicable	Not Applicable	0.50%
+"Total"	"2014"	"2014"	"Dec., 2014"	"2014/12"			243390	Not Applicable	Not Applicable	0.54%
+"Total"	"2014"	"2014"					2626418	Not Applicable	Not Applicable	5.85%
+	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Unintentional"	"1"	12311	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Suicide"	"2"	3618	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Homicide"	"3"	1437	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Undetermined "	"4"	457	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Non-Injury, no intent classified"	"9"	247494	Not Applicable	Not Applicable	0.55%
+"Total"	"2015"	"2015"	"Jan., 2015"	"2015/01"			265355	Not Applicable	Not Applicable	0.59%
+	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Unintentional"	"1"	11040	Not Applicable	Not Applicable	0.02%
+	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Suicide"	"2"	3215	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Homicide"	"3"	1124	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Undetermined "	"4"	391	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Legal Intervention / Operations of War"	"5"	38	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Non-Injury, no intent classified"	"9"	211239	Not Applicable	Not Applicable	0.47%
+"Total"	"2015"	"2015"	"Feb., 2015"	"2015/02"			227047	Not Applicable	Not Applicable	0.51%
+	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Unintentional"	"1"	12028	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Suicide"	"2"	3935	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Homicide"	"3"	1365	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Undetermined "	"4"	430	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Legal Intervention / Operations of War"	"5"	48	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Non-Injury, no intent classified"	"9"	224906	Not Applicable	Not Applicable	0.50%
+"Total"	"2015"	"2015"	"Mar., 2015"	"2015/03"			242712	Not Applicable	Not Applicable	0.54%
+	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Unintentional"	"1"	11419	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Suicide"	"2"	3726	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Homicide"	"3"	1297	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Undetermined "	"4"	371	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Legal Intervention / Operations of War"	"5"	39	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Non-Injury, no intent classified"	"9"	207571	Not Applicable	Not Applicable	0.46%
+"Total"	"2015"	"2015"	"Apr., 2015"	"2015/04"			224423	Not Applicable	Not Applicable	0.50%
+	"2015"	"2015"	"May, 2015"	"2015/05"	"Unintentional"	"1"	12324	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"May, 2015"	"2015/05"	"Suicide"	"2"	3966	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"May, 2015"	"2015/05"	"Homicide"	"3"	1531	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"May, 2015"	"2015/05"	"Undetermined "	"4"	438	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"May, 2015"	"2015/05"	"Legal Intervention / Operations of War"	"5"	42	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"May, 2015"	"2015/05"	"Non-Injury, no intent classified"	"9"	205299	Not Applicable	Not Applicable	0.46%
+"Total"	"2015"	"2015"	"May, 2015"	"2015/05"			223600	Not Applicable	Not Applicable	0.50%
+	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Unintentional"	"1"	12176	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Suicide"	"2"	3785	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Homicide"	"3"	1546	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Undetermined "	"4"	406	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Legal Intervention / Operations of War"	"5"	34	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Non-Injury, no intent classified"	"9"	193228	Not Applicable	Not Applicable	0.43%
+"Total"	"2015"	"2015"	"Jun., 2015"	"2015/06"			211175	Not Applicable	Not Applicable	0.47%
+	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Unintentional"	"1"	12941	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Suicide"	"2"	3944	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Homicide"	"3"	1676	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Undetermined "	"4"	446	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Legal Intervention / Operations of War"	"5"	50	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Non-Injury, no intent classified"	"9"	197894	Not Applicable	Not Applicable	0.44%
+"Total"	"2015"	"2015"	"Jul., 2015"	"2015/07"			216951	Not Applicable	Not Applicable	0.48%
+	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Unintentional"	"1"	12803	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Suicide"	"2"	3912	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Homicide"	"3"	1650	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Undetermined "	"4"	429	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Legal Intervention / Operations of War"	"5"	59	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Non-Injury, no intent classified"	"9"	195551	Not Applicable	Not Applicable	0.44%
+"Total"	"2015"	"2015"	"Aug., 2015"	"2015/08"			214404	Not Applicable	Not Applicable	0.48%
+	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Unintentional"	"1"	12293	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Suicide"	"2"	3578	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Homicide"	"3"	1610	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Undetermined "	"4"	402	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Legal Intervention / Operations of War"	"5"	39	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Non-Injury, no intent classified"	"9"	191983	Not Applicable	Not Applicable	0.43%
+"Total"	"2015"	"2015"	"Sep., 2015"	"2015/09"			209905	Not Applicable	Not Applicable	0.47%
+	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Unintentional"	"1"	12845	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Suicide"	"2"	3688	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Homicide"	"3"	1486	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Undetermined "	"4"	415	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Legal Intervention / Operations of War"	"5"	52	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Non-Injury, no intent classified"	"9"	205049	Not Applicable	Not Applicable	0.46%
+"Total"	"2015"	"2015"	"Oct., 2015"	"2015/10"			223535	Not Applicable	Not Applicable	0.50%
+	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Unintentional"	"1"	12002	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Suicide"	"2"	3357	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Homicide"	"3"	1503	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Undetermined "	"4"	374	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Legal Intervention / Operations of War"	"5"	46	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Non-Injury, no intent classified"	"9"	202506	Not Applicable	Not Applicable	0.45%
+"Total"	"2015"	"2015"	"Nov., 2015"	"2015/11"			219788	Not Applicable	Not Applicable	0.49%
+	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Unintentional"	"1"	12389	Not Applicable	Not Applicable	0.03%
+	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Suicide"	"2"	3469	Not Applicable	Not Applicable	0.01%
+	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Homicide"	"3"	1568	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Undetermined "	"4"	356	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Legal Intervention / Operations of War"	"5"	51	Not Applicable	Not Applicable	0.00%
+	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Non-Injury, no intent classified"	"9"	215902	Not Applicable	Not Applicable	0.48%
+"Total"	"2015"	"2015"	"Dec., 2015"	"2015/12"			233735	Not Applicable	Not Applicable	0.52%
+"Total"	"2015"	"2015"					2712630	Not Applicable	Not Applicable	6.04%
+	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Unintentional"	"1"	12559	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Suicide"	"2"	3720	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Homicide"	"3"	1499	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Undetermined "	"4"	441	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Legal Intervention / Operations of War"	"5"	48	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Non-Injury, no intent classified"	"9"	227556	Not Applicable	Not Applicable	0.51%
+"Total"	"2016"	"2016"	"Jan., 2016"	"2016/01"			245823	Not Applicable	Not Applicable	0.55%
+	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Unintentional"	"1"	12442	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Suicide"	"2"	3445	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Homicide"	"3"	1266	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Undetermined "	"4"	445	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Legal Intervention / Operations of War"	"5"	48	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Non-Injury, no intent classified"	"9"	212375	Not Applicable	Not Applicable	0.47%
+"Total"	"2016"	"2016"	"Feb., 2016"	"2016/02"			230021	Not Applicable	Not Applicable	0.51%
+	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Unintentional"	"1"	13382	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Suicide"	"2"	3921	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Homicide"	"3"	1476	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Undetermined "	"4"	505	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Legal Intervention / Operations of War"	"5"	41	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Non-Injury, no intent classified"	"9"	224958	Not Applicable	Not Applicable	0.50%
+"Total"	"2016"	"2016"	"Mar., 2016"	"2016/03"			244283	Not Applicable	Not Applicable	0.54%
+	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Unintentional"	"1"	12832	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Suicide"	"2"	3812	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Homicide"	"3"	1525	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Undetermined "	"4"	518	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Legal Intervention / Operations of War"	"5"	46	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Non-Injury, no intent classified"	"9"	208458	Not Applicable	Not Applicable	0.46%
+"Total"	"2016"	"2016"	"Apr., 2016"	"2016/04"			227191	Not Applicable	Not Applicable	0.51%
+	"2016"	"2016"	"May, 2016"	"2016/05"	"Unintentional"	"1"	13225	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"May, 2016"	"2016/05"	"Suicide"	"2"	3853	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"May, 2016"	"2016/05"	"Homicide"	"3"	1649	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"May, 2016"	"2016/05"	"Undetermined "	"4"	513	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"May, 2016"	"2016/05"	"Legal Intervention / Operations of War"	"5"	48	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"May, 2016"	"2016/05"	"Non-Injury, no intent classified"	"9"	205240	Not Applicable	Not Applicable	0.46%
+"Total"	"2016"	"2016"	"May, 2016"	"2016/05"			224528	Not Applicable	Not Applicable	0.50%
+	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Unintentional"	"1"	13289	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Suicide"	"2"	3726	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Homicide"	"3"	1657	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Undetermined "	"4"	514	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Legal Intervention / Operations of War"	"5"	56	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Non-Injury, no intent classified"	"9"	193809	Not Applicable	Not Applicable	0.43%
+"Total"	"2016"	"2016"	"Jun., 2016"	"2016/06"			213051	Not Applicable	Not Applicable	0.47%
+	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Unintentional"	"1"	14245	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Suicide"	"2"	4033	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Homicide"	"3"	1804	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Undetermined "	"4"	531	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Legal Intervention / Operations of War"	"5"	47	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Non-Injury, no intent classified"	"9"	199031	Not Applicable	Not Applicable	0.44%
+"Total"	"2016"	"2016"	"Jul., 2016"	"2016/07"			219691	Not Applicable	Not Applicable	0.49%
+	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Unintentional"	"1"	13827	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Suicide"	"2"	4042	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Homicide"	"3"	1804	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Undetermined "	"4"	482	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Legal Intervention / Operations of War"	"5"	52	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Non-Injury, no intent classified"	"9"	199704	Not Applicable	Not Applicable	0.44%
+"Total"	"2016"	"2016"	"Aug., 2016"	"2016/08"			219911	Not Applicable	Not Applicable	0.49%
+	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Unintentional"	"1"	13495	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Suicide"	"2"	3720	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Homicide"	"3"	1675	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Undetermined "	"4"	440	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Legal Intervention / Operations of War"	"5"	36	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Non-Injury, no intent classified"	"9"	194944	Not Applicable	Not Applicable	0.43%
+"Total"	"2016"	"2016"	"Sep., 2016"	"2016/09"			214310	Not Applicable	Not Applicable	0.48%
+	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Unintentional"	"1"	14051	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Suicide"	"2"	3838	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Homicide"	"3"	1678	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Undetermined "	"4"	444	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Legal Intervention / Operations of War"	"5"	56	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Non-Injury, no intent classified"	"9"	208852	Not Applicable	Not Applicable	0.46%
+"Total"	"2016"	"2016"	"Oct., 2016"	"2016/10"			228919	Not Applicable	Not Applicable	0.51%
+	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Unintentional"	"1"	13664	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Suicide"	"2"	3458	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Homicide"	"3"	1720	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Undetermined "	"4"	416	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Legal Intervention / Operations of War"	"5"	45	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Non-Injury, no intent classified"	"9"	208010	Not Applicable	Not Applicable	0.46%
+"Total"	"2016"	"2016"	"Nov., 2016"	"2016/11"			227313	Not Applicable	Not Applicable	0.51%
+	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Unintentional"	"1"	14363	Not Applicable	Not Applicable	0.03%
+	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Suicide"	"2"	3397	Not Applicable	Not Applicable	0.01%
+	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Homicide"	"3"	1609	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Undetermined "	"4"	474	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Legal Intervention / Operations of War"	"5"	44	Not Applicable	Not Applicable	0.00%
+	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Non-Injury, no intent classified"	"9"	229320	Not Applicable	Not Applicable	0.51%
+"Total"	"2016"	"2016"	"Dec., 2016"	"2016/12"			249207	Not Applicable	Not Applicable	0.55%
+"Total"	"2016"	"2016"					2744248	Not Applicable	Not Applicable	6.11%

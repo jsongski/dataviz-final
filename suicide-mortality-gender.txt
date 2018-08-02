@@ -1,0 +1,137 @@
+"Notes"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval	% of Total Deaths
+	"1999"	"1999"	"Suicide"	"2"	"Female"	"F"	5741	142237295	4.04	3.93	4.14	4.00	3.90	4.11	0.88%
+	"1999"	"1999"	"Suicide"	"2"	"Male"	"M"	23458	136802873	17.15	16.93	17.37	17.79	17.56	18.03	3.61%
+"Total"	"1999"	"1999"	"Suicide"	"2"			29199	279040168	10.46	10.34	10.58	10.47	10.35	10.59	4.49%
+"Total"	"1999"	"1999"					29199	279040168	10.46	10.34	10.58	10.47	10.35	10.59	4.49%
+	"2000"	"2000"	"Suicide"	"2"	"Female"	"F"	5732	143368343	4.00	3.89	4.10	3.97	3.86	4.07	0.88%
+	"2000"	"2000"	"Suicide"	"2"	"Male"	"M"	23618	138053563	17.11	16.89	17.33	17.74	17.51	17.97	3.63%
+"Total"	"2000"	"2000"	"Suicide"	"2"			29350	281421906	10.43	10.31	10.55	10.44	10.32	10.56	4.52%
+"Total"	"2000"	"2000"					29350	281421906	10.43	10.31	10.55	10.44	10.32	10.56	4.52%
+	"2001"	"2001"	"Suicide"	"2"	"Female"	"F"	5950	145077463	4.10	4.00	4.21	4.06	3.95	4.16	0.92%
+	"2001"	"2001"	"Suicide"	"2"	"Male"	"M"	24672	139891492	17.64	17.42	17.86	18.17	17.94	18.40	3.80%
+"Total"	"2001"	"2001"	"Suicide"	"2"			30622	284968955	10.75	10.63	10.87	10.72	10.60	10.84	4.71%
+"Total"	"2001"	"2001"					30622	284968955	10.75	10.63	10.87	10.72	10.60	10.84	4.71%
+	"2002"	"2002"	"Suicide"	"2"	"Female"	"F"	6246	146394634	4.27	4.16	4.37	4.22	4.11	4.32	0.96%
+	"2002"	"2002"	"Suicide"	"2"	"Male"	"M"	25409	141230559	17.99	17.77	18.21	18.51	18.28	18.74	3.91%
+"Total"	"2002"	"2002"	"Suicide"	"2"			31655	287625193	11.01	10.88	11.13	10.97	10.85	11.09	4.87%
+"Total"	"2002"	"2002"					31655	287625193	11.01	10.88	11.13	10.97	10.85	11.09	4.87%
+	"2003"	"2003"	"Suicide"	"2"	"Female"	"F"	6281	147679036	4.25	4.15	4.36	4.19	4.09	4.30	0.97%
+	"2003"	"2003"	"Suicide"	"2"	"Male"	"M"	25203	142428897	17.70	17.48	17.91	18.12	17.89	18.34	3.88%
+"Total"	"2003"	"2003"	"Suicide"	"2"			31484	290107933	10.85	10.73	10.97	10.79	10.67	10.91	4.84%
+"Total"	"2003"	"2003"					31484	290107933	10.85	10.73	10.97	10.79	10.67	10.91	4.84%
+	"2004"	"2004"	"Suicide"	"2"	"Female"	"F"	6873	148977286	4.61	4.50	4.72	4.54	4.43	4.65	1.06%
+	"2004"	"2004"	"Suicide"	"2"	"Male"	"M"	25566	143828012	17.78	17.56	17.99	18.11	17.89	18.34	3.93%
+"Total"	"2004"	"2004"	"Suicide"	"2"			32439	292805298	11.08	10.96	11.20	10.99	10.87	11.11	4.99%
+"Total"	"2004"	"2004"					32439	292805298	11.08	10.96	11.20	10.99	10.87	11.11	4.99%
+	"2005"	"2005"	"Suicide"	"2"	"Female"	"F"	6730	150319521	4.48	4.37	4.58	4.39	4.28	4.49	1.04%
+	"2005"	"2005"	"Suicide"	"2"	"Male"	"M"	25907	145197078	17.84	17.63	18.06	18.13	17.91	18.36	3.99%
+"Total"	"2005"	"2005"	"Suicide"	"2"			32637	295516599	11.04	10.92	11.16	10.92	10.80	11.04	5.02%
+"Total"	"2005"	"2005"					32637	295516599	11.04	10.92	11.16	10.92	10.80	11.04	5.02%
+	"2006"	"2006"	"Suicide"	"2"	"Female"	"F"	6992	151732647	4.61	4.50	4.72	4.50	4.39	4.60	1.08%
+	"2006"	"2006"	"Suicide"	"2"	"Male"	"M"	26308	146647265	17.94	17.72	18.16	18.12	17.90	18.34	4.05%
+"Total"	"2006"	"2006"	"Suicide"	"2"			33300	298379912	11.16	11.04	11.28	10.99	10.87	11.11	5.12%
+"Total"	"2006"	"2006"					33300	298379912	11.16	11.04	11.28	10.99	10.87	11.11	5.12%
+	"2007"	"2007"	"Suicide"	"2"	"Female"	"F"	7329	153166353	4.78	4.68	4.89	4.66	4.55	4.76	1.13%
+	"2007"	"2007"	"Suicide"	"2"	"Male"	"M"	27269	148064854	18.42	18.20	18.64	18.53	18.31	18.76	4.20%
+"Total"	"2007"	"2007"	"Suicide"	"2"			34598	301231207	11.49	11.36	11.61	11.28	11.16	11.40	5.32%
+"Total"	"2007"	"2007"					34598	301231207	11.49	11.36	11.61	11.28	11.16	11.40	5.32%
+	"2008"	"2008"	"Suicide"	"2"	"Female"	"F"	7585	154604015	4.91	4.80	5.02	4.78	4.67	4.89	1.17%
+	"2008"	"2008"	"Suicide"	"2"	"Male"	"M"	28450	149489951	19.03	18.81	19.25	19.04	18.82	19.27	4.38%
+"Total"	"2008"	"2008"	"Suicide"	"2"			36035	304093966	11.85	11.73	11.97	11.61	11.49	11.73	5.55%
+"Total"	"2008"	"2008"					36035	304093966	11.85	11.73	11.97	11.61	11.49	11.73	5.55%
+	"2009"	"2009"	"Suicide"	"2"	"Female"	"F"	7820	155964075	5.01	4.90	5.13	4.87	4.76	4.98	1.20%
+	"2009"	"2009"	"Suicide"	"2"	"Male"	"M"	29089	150807454	19.29	19.07	19.51	19.24	19.02	19.47	4.48%
+"Total"	"2009"	"2009"	"Suicide"	"2"			36909	306771529	12.03	11.91	12.15	11.76	11.64	11.88	5.68%
+"Total"	"2009"	"2009"					36909	306771529	12.03	11.91	12.15	11.76	11.64	11.88	5.68%
+	"2010"	"2010"	"Suicide"	"2"	"Female"	"F"	8087	156964212	5.15	5.04	5.26	4.99	4.88	5.10	1.24%
+	"2010"	"2010"	"Suicide"	"2"	"Male"	"M"	30277	151781326	19.95	19.72	20.17	19.81	19.58	20.03	4.66%
+"Total"	"2010"	"2010"	"Suicide"	"2"			38364	308745538	12.43	12.30	12.55	12.10	11.98	12.22	5.90%
+"Total"	"2010"	"2010"					38364	308745538	12.43	12.30	12.55	12.10	11.98	12.22	5.90%
+	"2011"	"2011"	"Suicide"	"2"	"Female"	"F"	8515	158301098	5.38	5.26	5.49	5.22	5.11	5.34	1.31%
+	"2011"	"2011"	"Suicide"	"2"	"Male"	"M"	31003	153290819	20.22	20.00	20.45	20.03	19.81	20.26	4.77%
+"Total"	"2011"	"2011"	"Suicide"	"2"			39518	311591917	12.68	12.56	12.81	12.35	12.23	12.47	6.08%
+"Total"	"2011"	"2011"					39518	311591917	12.68	12.56	12.81	12.35	12.23	12.47	6.08%
+	"2012"	"2012"	"Suicide"	"2"	"Female"	"F"	8820	159421973	5.53	5.42	5.65	5.37	5.26	5.49	1.36%
+	"2012"	"2012"	"Suicide"	"2"	"Male"	"M"	31780	154492067	20.57	20.34	20.80	20.34	20.11	20.56	4.89%
+"Total"	"2012"	"2012"	"Suicide"	"2"			40600	313914040	12.93	12.81	13.06	12.57	12.45	12.70	6.25%
+"Total"	"2012"	"2012"					40600	313914040	12.93	12.81	13.06	12.57	12.45	12.70	6.25%
+	"2013"	"2013"	"Suicide"	"2"	"Female"	"F"	9094	160477237	5.67	5.55	5.78	5.48	5.37	5.60	1.40%
+	"2013"	"2013"	"Suicide"	"2"	"Male"	"M"	32055	155651602	20.59	20.37	20.82	20.28	20.06	20.51	4.93%
+"Total"	"2013"	"2013"	"Suicide"	"2"			41149	316128839	13.02	12.89	13.14	12.61	12.48	12.73	6.33%
+"Total"	"2013"	"2013"					41149	316128839	13.02	12.89	13.14	12.61	12.48	12.73	6.33%
+	"2014"	"2014"	"Suicide"	"2"	"Female"	"F"	9664	161920569	5.97	5.85	6.09	5.78	5.67	5.90	1.49%
+	"2014"	"2014"	"Suicide"	"2"	"Male"	"M"	33162	156936487	21.13	20.90	21.36	20.72	20.49	20.95	5.10%
+"Total"	"2014"	"2014"	"Suicide"	"2"			42826	318857056	13.43	13.30	13.56	12.98	12.85	13.10	6.59%
+"Total"	"2014"	"2014"					42826	318857056	13.43	13.30	13.56	12.98	12.85	13.10	6.59%
+	"2015"	"2015"	"Suicide"	"2"	"Female"	"F"	10199	163189523	6.25	6.13	6.37	6.04	5.92	6.16	1.57%
+	"2015"	"2015"	"Suicide"	"2"	"Male"	"M"	33994	158229297	21.48	21.26	21.71	21.05	20.82	21.28	5.23%
+"Total"	"2015"	"2015"	"Suicide"	"2"			44193	321418820	13.75	13.62	13.88	13.29	13.16	13.42	6.80%
+"Total"	"2015"	"2015"					44193	321418820	13.75	13.62	13.88	13.29	13.16	13.42	6.80%
+	"2016"	"2016"	"Suicide"	"2"	"Female"	"F"	10238	164048590	6.24	6.12	6.36	6.05	5.93	6.17	1.58%
+	"2016"	"2016"	"Suicide"	"2"	"Male"	"M"	34727	159078923	21.83	21.60	22.06	21.37	21.14	21.60	5.34%
+"Total"	"2016"	"2016"	"Suicide"	"2"			44965	323127513	13.92	13.79	14.04	13.46	13.33	13.58	6.92%
+"Total"	"2016"	"2016"					44965	323127513	13.92	13.79	14.04	13.46	13.33	13.58	6.92%
+"Total"							649843	5435746389	11.95	11.93	11.98	11.75	11.72	11.78	100.00%
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Metro/Nonmetro: All"
+"2013 Urbanization: All"
+"Age Group: All"
+"Gender: All"
+"Hispanic Origin: All"
+"Injury Intent: Suicide"
+"Injury Mechanism & All Other Leading Causes: All"
+"Race: All"
+"States: All"
+"Year: All, 1999 to 2016"
+"Group By: Year, Injury Intent, Gender"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Jul 29, 2018 5:42:43 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No."
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Jul 29, 2018 5:42:43 PM"
+"---"
+Caveats:
+"1. About national population figures: population figures for 1999 are from the 1990-1999 series of bridged-race intercensal"
+"estimates of the July 1 resident population; population figures for 2000 and 2010 are bridged-race April 1 census counts;"
+"population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race intercensal estimates of the July 1"
+"resident population; population figures for 2011 are bridged-race postcensal estimates of the July 1 resident population, from"
+"the Vintage 2011 series released by NCHS on July 18, 2012; population figures for 2012 are bridged-race postcensal estimates of"
+"the July 1 resident population, from the Vintage 2012 series released by NCHS on June 13, 2013; population figures for 2013 are"
+"bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2013 series released by NCHS on June 26,"
+"2014; population figures for 2014 are bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2014"
+"series released by NCHS on June 30, 2015. and population figures for 2015 are bridged-race postcensal estimates of the July 1"
+"resident population, from the Vintage 2015 series released by NCHS on June 28, 2016. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Population Information."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Confidence-Intervals."
+"7. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"8. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies."
+"9. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More"
+"information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies."
+"10. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10"
+"codes, most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies."
